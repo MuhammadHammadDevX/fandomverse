@@ -1,0 +1,46 @@
+{
+  "name": "fandomverse",
+  "private": true,
+  "version": "1.0.0",
+  "description": "FandomVerse - An all-in-one pop culture & entertainment fandom universe hub built with React 19, Vite, and React Router 7.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "react19",
+    "vite",
+    "fandom",
+    "anime",
+    "gaming",
+    "movies",
+    "kpop",
+    "comics",
+    "manga",
+    "pop-culture",
+    "entertainment",
+    "react-router"
+  ],
+  "author": "Hammad",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "eslint": "^10.10.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.6",
+    "globals": "^17.12.0",
+    "vite": "^8.3.0"
+  }
+}

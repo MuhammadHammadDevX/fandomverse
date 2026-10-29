@@ -1,0 +1,508 @@
+{
+    "botName": "Verse Bot",
+    "greeting": "Hi! I'm Verse Bot I can help you find categories, trailers, characters, events and merch. What are you into?",
+    "fallback": [
+        "Hmm, I'm not sure about that one. Try asking about a category (like anime or K-Pop), trailers, events, bookmarks or the store.",
+        "Sorry, I didn't get that. You can also type 'help' to see what I can do.",
+        "I'm still learning Try words like 'recommend anime', 'upcoming events' or 'how to bookmark'."
+    ],
+    "quickReplies": [
+        "Categories",
+        "Recommend something",
+        "Upcoming events",
+        "Trailers",
+        "How do bookmarks work?",
+        "Store"
+    ],
+    "intents": [
+        {
+            "id": "greeting",
+            "keywords": [
+                "hi",
+                "hello",
+                "hey",
+                "salam",
+                "assalam",
+                "aoa",
+                "hola",
+                "good morning",
+                "good evening"
+            ],
+            "answers": [
+                "Hello! Welcome to FandomVerse. Which fandom do you like - anime, gaming, movies, TV, K-Pop, comics or manga?",
+                "Hey there! What would you like to explore today?"
+            ]
+        },
+        {
+            "id": "thanks",
+            "keywords": [
+                "thanks",
+                "thank you",
+                "thx",
+                "shukriya",
+                "great",
+                "awesome",
+                "nice"
+            ],
+            "answers": [
+                "You're welcome! Anything else?",
+                "Happy to help! Enjoy FandomVerse."
+            ]
+        },
+        {
+            "id": "bye",
+            "keywords": [
+                "bye",
+                "goodbye",
+                "see you",
+                "khuda hafiz",
+                "allah hafiz"
+            ],
+            "answers": [
+                "Bye! Come back soon"
+            ]
+        },
+        {
+            "id": "help",
+            "keywords": [
+                "help",
+                "what can you do",
+                "options",
+                "menu",
+                "guide"
+            ],
+            "answers": [
+                "I can take you to any category, recommend content (try 'recommend gaming'), show trailers, events and characters, explain bookmarks, notes and the cart, or give you our contact info."
+            ]
+        },
+        {
+            "id": "categories",
+            "keywords": [
+                "category",
+                "categories",
+                "fandom",
+                "fandoms",
+                "sections",
+                "topics"
+            ],
+            "answers": [
+                "We have 7 fandom hubs: Anime, Gaming, Movies, TV Shows, K-Pop, Comics and Manga. Tap one below"
+            ],
+            "links": [
+                {
+                    "text": "Anime",
+                    "url": "category.html?cat=anime"
+                },
+                {
+                    "text": "Gaming",
+                    "url": "category.html?cat=gaming"
+                },
+                {
+                    "text": "Movies",
+                    "url": "category.html?cat=movies"
+                },
+                {
+                    "text": "TV Shows",
+                    "url": "category.html?cat=tv"
+                },
+                {
+                    "text": "K-Pop",
+                    "url": "category.html?cat=kpop"
+                },
+                {
+                    "text": "Comics",
+                    "url": "category.html?cat=comics"
+                },
+                {
+                    "text": "Manga",
+                    "url": "category.html?cat=manga"
+                }
+            ]
+        },
+        {
+            "id": "trailers",
+            "keywords": [
+                "trailer",
+                "trailers",
+                "teaser",
+                "upcoming movie",
+                "new trailer"
+            ],
+            "answers": [
+                "All trailers are on the Trailers page. You can filter them by category and by upcoming or recently released."
+            ],
+            "links": [
+                {
+                    "text": "Open Trailers",
+                    "url": "trailers.html"
+                }
+            ]
+        },
+        {
+            "id": "videos",
+            "keywords": [
+                "video",
+                "videos",
+                "music video",
+                "mv",
+                "podcast",
+                "podcasts",
+                "audio",
+                "interview",
+                "interviews",
+                "listen",
+                "watch"
+            ],
+            "answers": [
+                "Videos, music videos, podcasts and fan interviews are on the Videos & Audio page."
+            ],
+            "links": [
+                {
+                    "text": "Videos & Audio",
+                    "url": "media.html"
+                }
+            ]
+        },
+        {
+            "id": "gallery",
+            "keywords": [
+                "gallery",
+                "image",
+                "images",
+                "picture",
+                "pictures",
+                "photo",
+                "photos",
+                "wallpaper"
+            ],
+            "answers": [
+                "Check out the Gallery - click any image to open it in the lightbox and use the arrows to browse."
+            ],
+            "links": [
+                {
+                    "text": "Open Gallery",
+                    "url": "gallery.html"
+                }
+            ]
+        },
+        {
+            "id": "characters",
+            "keywords": [
+                "character",
+                "characters",
+                "hero",
+                "heroes",
+                "villain",
+                "profile",
+                "profiles",
+                "idol",
+                "idols"
+            ],
+            "answers": [
+                "We have character profiles for every category - from Tanjiro and Luffy to Batman and Walter White. You can filter by category and franchise."
+            ],
+            "links": [
+                {
+                    "text": "Characters",
+                    "url": "characters.html"
+                }
+            ]
+        },
+        {
+            "id": "events",
+            "keywords": [
+                "event",
+                "events",
+                "convention",
+                "meetup",
+                "meet up",
+                "watch party",
+                "con",
+                "upcoming events",
+                "tournament",
+                "workshop"
+            ],
+            "answers": [
+                "We list past and upcoming fan events like conventions, watch parties, tournaments and meetups in Karachi, Lahore and Islamabad."
+            ],
+            "links": [
+                {
+                    "text": "See Events",
+                    "url": "events.html"
+                }
+            ]
+        },
+        {
+            "id": "articles",
+            "keywords": [
+                "article",
+                "articles",
+                "news",
+                "blog",
+                "read",
+                "reading",
+                "story",
+                "stories"
+            ],
+            "answers": [
+                "Our Featured Articles page has long reads about every fandom."
+            ],
+            "links": [
+                {
+                    "text": "Read Articles",
+                    "url": "articles.html"
+                }
+            ]
+        },
+        {
+            "id": "store",
+            "keywords": [
+                "store",
+                "shop",
+                "merch",
+                "merchandise",
+                "buy",
+                "price",
+                "tshirt",
+                "t-shirt",
+                "shirt",
+                "hoodie",
+                "cap",
+                "poster",
+                "mug",
+                "cart"
+            ],
+            "answers": [
+                "Our merch store has t-shirts, caps, posters and more. You can add items to a temporary cart and see the total. (There is no real checkout - it's a demo.)"
+            ],
+            "links": [
+                {
+                    "text": "Go to Store",
+                    "url": "merchandise.html"
+                }
+            ]
+        },
+        {
+            "id": "bookmarks",
+            "keywords": [
+                "bookmark",
+                "bookmarks",
+                "favourite",
+                "favorite",
+                "favourites",
+                "favorites",
+                "save",
+                "saved",
+                "notes",
+                "note",
+                "export"
+            ],
+            "answers": [
+                "Click the Save button on any card to bookmark it. Your bookmarks stay in this browser. On the Bookmarks page you can add personal notes (only for this session) and export your list."
+            ],
+            "links": [
+                {
+                    "text": "My Bookmarks",
+                    "url": "bookmarks.html"
+                }
+            ]
+        },
+        {
+            "id": "search",
+            "keywords": [
+                "search",
+                "find",
+                "looking for",
+                "where is"
+            ],
+            "answers": [
+                "Use the search bar at the top of every page. On the results page you can filter by category and content type."
+            ],
+            "links": [
+                {
+                    "text": "Search page",
+                    "url": "search.html"
+                }
+            ]
+        },
+        {
+            "id": "login",
+            "keywords": [
+                "login",
+                "log in",
+                "sign in",
+                "signup",
+                "sign up",
+                "register",
+                "account",
+                "password"
+            ],
+            "answers": [
+                "Login and Sign Up are only UI demos in this project - they don't create real accounts, so you can use everything without logging in."
+            ],
+            "links": [
+                {
+                    "text": "Login",
+                    "url": "login.html"
+                },
+                {
+                    "text": "Sign Up",
+                    "url": "signup.html"
+                }
+            ]
+        },
+        {
+            "id": "contact",
+            "keywords": [
+                "contact",
+                "email",
+                "phone",
+                "address",
+                "location",
+                "map",
+                "office",
+                "reach"
+            ],
+            "answers": [
+                "You can reach the FandomVerse team at fandomverse.team@gmail.com or +92 300 1234567. The Contact page also has a map."
+            ],
+            "links": [
+                {
+                    "text": "Contact Us",
+                    "url": "contact.html"
+                }
+            ]
+        },
+        {
+            "id": "about",
+            "keywords": [
+                "about",
+                "who made",
+                "team",
+                "who are you",
+                "what is fandomverse",
+                "website"
+            ],
+            "answers": [
+                "FandomVerse is a student project - a fan portal for anime, gaming, movies, TV, K-Pop, comics and manga fans."
+            ],
+            "links": [
+                {
+                    "text": "About Us",
+                    "url": "about.html"
+                }
+            ]
+        },
+        {
+            "id": "bot",
+            "keywords": [
+                "your name",
+                "are you human",
+                "are you real",
+                "bot",
+                "robot",
+                "ai"
+            ],
+            "answers": [
+                "I'm Verse Bot, a simple rule-based chatbot. My answers come from a small knowledge file, so I might not know everything!"
+            ]
+        }
+    ],
+    "categoryWords": {
+        "anime": [
+            "anime",
+            "demon slayer",
+            "naruto",
+            "attack on titan",
+            "aot",
+            "ghibli",
+            "tanjiro",
+            "eren"
+        ],
+        "gaming": [
+            "game",
+            "games",
+            "gaming",
+            "gamer",
+            "gta",
+            "minecraft",
+            "elden ring",
+            "witcher",
+            "esports",
+            "playstation",
+            "xbox"
+        ],
+        "movies": [
+            "movie",
+            "movies",
+            "film",
+            "films",
+            "cinema",
+            "marvel movie",
+            "nolan",
+            "dune",
+            "avengers",
+            "interstellar"
+        ],
+        "tv": [
+            "tv",
+            "tv show",
+            "tv shows",
+            "series",
+            "drama",
+            "netflix",
+            "hbo",
+            "stranger things",
+            "game of thrones",
+            "breaking bad",
+            "wednesday"
+        ],
+        "kpop": [
+            "kpop",
+            "k-pop",
+            "k pop",
+            "bts",
+            "blackpink",
+            "twice",
+            "newjeans",
+            "stray kids",
+            "korean music"
+        ],
+        "comics": [
+            "comic",
+            "comics",
+            "superhero",
+            "superheroes",
+            "spider-man",
+            "spiderman",
+            "batman",
+            "superman",
+            "dc",
+            "deadpool"
+        ],
+        "manga": [
+            "manga",
+            "one piece",
+            "luffy",
+            "death note",
+            "chainsaw man",
+            "jujutsu",
+            "jjk",
+            "spy x family"
+        ]
+    },
+    "recommendWords": [
+        "recommend",
+        "suggest",
+        "suggestion",
+        "what should i",
+        "something",
+        "i like",
+        "i love",
+        "into",
+        "fan of",
+        "best",
+        "top",
+        "popular"
+    ]
+}

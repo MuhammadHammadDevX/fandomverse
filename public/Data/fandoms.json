@@ -1,0 +1,3880 @@
+{
+    "categories": [
+        {
+            "id": "anime",
+            "name": "Anime",
+            "color": "#e63946",
+            "banner": "Images/hello.jfif",
+            "intro": "From shonen battles to Studio Ghibli magic - trailers, characters and fan events for every anime lover.",
+            "tags": [
+                "Action",
+                "Fantasy",
+                "Drama",
+                "Romance",
+                "Isekai"
+            ]
+        },
+        {
+            "id": "gaming",
+            "name": "Gaming",
+            "color": "#2a9d8f",
+            "banner": "https://i.ytimg.com/vi/QdBZY2fkU-0/hq720.jpg",
+            "intro": "Open worlds, boss fights and big launches. Everything happening in the gaming world in one place.",
+            "tags": [
+                "Open World",
+                "RPG",
+                "Action",
+                "Sandbox",
+                "eSports"
+            ]
+        },
+        {
+            "id": "movies",
+            "name": "Movies",
+            "color": "#f4a261",
+            "banner": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1600&auto=format&fit=crop&q=80",
+            "intro": "Blockbusters, sci-fi epics and cinema classics - trailers, reviews and watch parties.",
+            "tags": [
+                "Sci-Fi",
+                "Superhero",
+                "Fantasy",
+                "Drama",
+                "Thriller"
+            ]
+        },
+        {
+            "id": "tv",
+            "name": "TV Shows",
+            "color": "#8e7dbe",
+            "banner": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=1600&auto=format&fit=crop&q=80",
+            "intro": "Binge-worthy series, finale parties and the characters everyone is talking about.",
+            "tags": [
+                "Fantasy",
+                "Mystery",
+                "Drama",
+                "Thriller",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": "kpop",
+            "name": "K-Pop",
+            "color": "#ff70a6",
+            "banner": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=1600&auto=format&fit=crop&q=80",
+            "intro": "Music videos, idol profiles, dance covers and fan culture from the world of K-Pop.",
+            "tags": [
+                "Boy Group",
+                "Girl Group",
+                "Dance",
+                "Music Video",
+                "Fan Culture"
+            ]
+        },
+        {
+            "id": "comics",
+            "name": "Comics",
+            "color": "#4d96ff",
+            "banner": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=1600&auto=format&fit=crop&q=80",
+            "intro": "Marvel, DC and beyond - superheroes, villains and the stories that made them legends.",
+            "tags": [
+                "Marvel",
+                "DC",
+                "Superhero",
+                "Villain",
+                "Animation"
+            ]
+        },
+        {
+            "id": "manga",
+            "name": "Manga",
+            "color": "#ffd166",
+            "banner": "Images/banner 1.jfif",
+            "intro": "Read, discuss and discover manga - from One Piece to Chainsaw Man.",
+            "tags": [
+                "Shonen",
+                "Action",
+                "Mystery",
+                "Comedy",
+                "Dark Fantasy"
+            ]
+        }
+    ],
+    "articles": [
+        {
+            "id": "art-demon-slayer-animation",
+            "category": "anime",
+            "title": "Why Demon Slayer's Animation Feels So Different",
+            "image": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
+            "description": "How studio ufotable mixes 2D drawings with 3D effects to make fights look like moving paintings.",
+            "body": [
+                "When Demon Slayer first aired in 2019, a lot of people said the same thing: it looks like a movie. Episode 19, where Tanjiro uses Hinokami Kagura for the first time, went viral within hours and many viewers who never watched anime before started the show because of clips of that scene.",
+                "The studio behind it, ufotable, is famous for mixing hand drawn characters with digital effects. The water and fire from the breathing styles are inspired by traditional Japanese ukiyo-e art, so even the special effects feel like part of the painting instead of something added on top.",
+                "Another reason is camera movement. In many action anime the camera stays still and the characters move. In Demon Slayer the camera spins around the fight, follows the sword and zooms in on faces. This makes you feel like you are standing inside the battle.",
+                "Of course, the story helps too. Tanjiro is not a cold hero. He cries, he apologises to demons and he never stops caring about his sister. The beautiful animation gives those emotional moments extra weight.",
+                "If you haven't started yet, begin with season one and don't skip the openings - Gurenge by LiSA is part of the experience."
+            ],
+            "tags": [
+                "Action",
+                "Fantasy"
+            ],
+            "date": "2026-08-12",
+            "popularity": 94,
+            "author": "Hamza R.",
+            "readTime": "2 min read",
+            "featured": true
+        },
+        {
+            "id": "art-ghibli-where-to-start",
+            "category": "anime",
+            "title": "Studio Ghibli: Where Should You Start?",
+            "image": "https://i.ytimg.com/vi/ByXuk9QqQkk/hqdefault.jpg",
+            "description": "A simple guide for new fans - which Ghibli film to watch first and why.",
+            "body": [
+                "Studio Ghibli has made some of the most loved animated movies ever, but if you've never watched one it can be hard to choose. Here is our simple starting list.",
+                "Spirited Away is the most famous one and won the Oscar for Best Animated Feature. It follows Chihiro, a girl who gets trapped in a world of spirits. It is strange, beautiful and a little scary, which makes it a great first pick.",
+                "If you want something lighter, My Neighbor Totoro is perfect for a family movie night. Nothing very dramatic happens, but it feels warm and peaceful. Kiki's Delivery Service is another relaxing choice about a young witch finding her place.",
+                "For action fans, Princess Mononoke is the one to watch. It is about the fight between humans and nature and has some intense battle scenes.",
+                "Our advice: don't rush. Watch one film a week and you will soon understand why people love these movies so much."
+            ],
+            "tags": [
+                "Fantasy",
+                "Drama"
+            ],
+            "date": "2026-06-03",
+            "popularity": 82,
+            "author": "Ayesha K.",
+            "readTime": "2 min read",
+            "featured": false
+        },
+        {
+            "id": "art-open-world-design",
+            "category": "gaming",
+            "title": "Open Worlds: From Los Santos to the Lands Between",
+            "image": "https://i.ytimg.com/vi/E3Huy2cdih0/hqdefault.jpg",
+            "description": "How games like GTA, Red Dead and Elden Ring make huge worlds feel alive.",
+            "body": [
+                "A big map alone does not make a good open world game. Some of the biggest games ever have empty worlds that feel boring after a few hours. So what makes the best ones special?",
+                "Rockstar's games like GTA V and Red Dead Redemption 2 focus on detail. People walk around with their own routines, shops open and close, and the weather changes how the world feels. You believe the world keeps going even when you are not looking.",
+                "Elden Ring takes another approach. It gives very little direction and lets you explore. You see a castle on the horizon and you simply walk there. Finding a hidden cave or a secret boss feels like a real discovery because the game did not mark it on the map.",
+                "Zelda: Tears of the Kingdom gives players tools and lets them solve problems their own way. Fans have built flying machines and robots that the developers never expected.",
+                "With GTA VI coming, a lot of people are wondering what the next step will be. Our guess: even smarter NPCs and a city that reacts to everything you do."
+            ],
+            "tags": [
+                "Open World",
+                "RPG"
+            ],
+            "date": "2026-09-05",
+            "popularity": 91,
+            "author": "Usman A.",
+            "readTime": "2 min read",
+            "featured": true
+        },
+        {
+            "id": "art-minecraft-forever",
+            "category": "gaming",
+            "title": "Why Minecraft Never Gets Old",
+            "image": "https://i.ytimg.com/vi/MmB9b5njVbA/hqdefault.jpg",
+            "description": "More than a decade later, the block game is still one of the most played games on the planet.",
+            "body": [
+                "Minecraft came out as a small indie game and became one of the best selling games of all time. Kids who started playing it years ago are now adults who still log in with friends.",
+                "The secret is freedom. There is no single way to play. Some people build giant cities, some explore caves, some make complex redstone machines and others just farm and relax.",
+                "Minecraft is also used in schools to teach coding, maths and even history. Teachers have recreated old cities so students can walk around them.",
+                "Regular free updates keep the game fresh. New mobs, biomes and blocks give old players a reason to come back.",
+                "If you want to try it with friends, start a survival world and set one small goal - like building a house before the first night. You'll be hooked."
+            ],
+            "tags": [
+                "Sandbox"
+            ],
+            "date": "2026-04-18",
+            "popularity": 78,
+            "author": "Bilal M.",
+            "readTime": "2 min read",
+            "featured": false
+        },
+        {
+            "id": "art-nolan-practical-effects",
+            "category": "movies",
+            "title": "Christopher Nolan and the Magic of Practical Effects",
+            "image": "https://i.ytimg.com/vi/zSWdZVtXT7E/hqdefault.jpg",
+            "description": "Real sets, real explosions and very little green screen - why Nolan's movies feel so real.",
+            "body": [
+                "Christopher Nolan is famous for doing things for real whenever he can. In The Dark Knight a real truck was flipped in the middle of a city street. In Inception a hallway was built that could spin completely so the actors could fight on the walls.",
+                "For Interstellar, the team built the spacecraft interiors and projected space outside the windows instead of adding it later with a green screen. The actors could actually see where they were, which helped their performances.",
+                "The famous black hole, Gargantua, was created with help from physicist Kip Thorne. The visual effects team used real equations to show how light would bend around it.",
+                "Practical effects are expensive and slow, but audiences can feel the difference. Things have weight and light behaves naturally.",
+                "If you plan a Nolan marathon, our order is: The Dark Knight, Inception, Interstellar and then Oppenheimer."
+            ],
+            "tags": [
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "date": "2026-07-22",
+            "popularity": 89,
+            "author": "Sara N.",
+            "readTime": "2 min read",
+            "featured": true
+        },
+        {
+            "id": "art-dune-unfilmable",
+            "category": "movies",
+            "title": "Dune: Bringing an 'Unfilmable' Book to the Screen",
+            "image": "https://i.ytimg.com/vi/Way9Dexny3w/hqdefault.jpg",
+            "description": "For years people said Dune could never be adapted well. Denis Villeneuve proved them wrong.",
+            "body": [
+                "Frank Herbert's Dune was published in 1965 and has a huge world full of politics, religion and giant sandworms. Many filmmakers tried to adapt it and many said it was impossible.",
+                "Denis Villeneuve decided to split the first book into two movies. This gave the story enough room to breathe. The first film sets up the world and the second focuses on Paul's journey with the Fremen.",
+                "The movies use huge desert locations in Jordan and Abu Dhabi, deep sound design and Hans Zimmer's music to make Arrakis feel real and dangerous.",
+                "The cast also helped a lot. Timothee Chalamet, Zendaya, Rebecca Ferguson and Austin Butler brought the characters to life.",
+                "With Dune: Part Three on the way, fans are excited to see how the story of Paul continues."
+            ],
+            "tags": [
+                "Sci-Fi"
+            ],
+            "date": "2026-05-15",
+            "popularity": 84,
+            "author": "Ali H.",
+            "readTime": "2 min read",
+            "featured": false
+        },
+        {
+            "id": "art-stranger-things-80s",
+            "category": "tv",
+            "title": "Stranger Things: How 80s Nostalgia Became a Global Hit",
+            "image": "https://i.ytimg.com/vi/b9EkMc79ZSU/hqdefault.jpg",
+            "description": "Bikes, arcades and synth music - how a show about the 1980s won over viewers born decades later.",
+            "body": [
+                "When Stranger Things came out in 2016 nobody expected it to become one of Netflix's biggest shows. It mixed Steven Spielberg adventure, Stephen King horror and a group of friends on bikes.",
+                "The show uses 80s music, clothes and toys to create a strong mood. Songs like Kate Bush's Running Up That Hill became hits again because of the show, decades after they first came out.",
+                "But nostalgia alone does not keep people watching for years. The real heart of the show is the friendship between Eleven, Mike, Dustin, Lucas and Will. Viewers literally watched the cast grow up.",
+                "The monsters from the Upside Down, like the Demogorgon and Vecna, also gave fans endless theories to discuss online.",
+                "Now that the story has ended, fans are rewatching from season one to catch all the clues they missed."
+            ],
+            "tags": [
+                "Sci-Fi",
+                "Mystery"
+            ],
+            "date": "2026-02-10",
+            "popularity": 90,
+            "author": "Hira S.",
+            "readTime": "2 min read",
+            "featured": true
+        },
+        {
+            "id": "art-got-still-talked",
+            "category": "tv",
+            "title": "Why We Still Talk About Game of Thrones",
+            "image": "https://i.ytimg.com/vi/rlR4PJn8b8I/hqdefault.jpg",
+            "description": "Years after the finale, Game of Thrones is still the show everyone compares new fantasy series to.",
+            "body": [
+                "Game of Thrones changed TV. It showed that a fantasy show could have movie-level battles and serious political drama at the same time.",
+                "One reason people remember it is that no character was safe. When Ned Stark died in season one, viewers realised this was not a normal show.",
+                "The final season divided fans a lot, and people still argue about it. But even the arguments show how much people cared.",
+                "House of the Dragon brought many fans back to Westeros and proved there is still interest in this world.",
+                "If you never watched it, the first four seasons are some of the best TV ever made."
+            ],
+            "tags": [
+                "Fantasy",
+                "Drama"
+            ],
+            "date": "2026-03-28",
+            "popularity": 80,
+            "author": "Faraz Q.",
+            "readTime": "2 min read",
+            "featured": false
+        },
+        {
+            "id": "art-kpop-choreography",
+            "category": "kpop",
+            "title": "How K-Pop Choreography Went Global",
+            "image": "https://i.ytimg.com/vi/ioNng23DkIM/hqdefault.jpg",
+            "description": "Point choreography, dance challenges and fan covers - the dancing is a huge part of K-Pop's success.",
+            "body": [
+                "In K-Pop, the dance is just as important as the song. Groups practise for months so that every member moves perfectly in sync.",
+                "Many songs have a 'point choreography' - a simple, catchy move that fans can copy easily. Think of TWICE's TT pose or PSY's Gangnam Style horse dance.",
+                "Social media turned this into dance challenges. Idols post short clips of their new dance and fans all around the world copy it within days.",
+                "Dance cover teams are now common in Pakistan too. Groups in Karachi, Lahore and Islamabad practise in parks and malls and perform at fan events.",
+                "Want to start? Choose an easy song, slow the video down and practise with a mirror. Most importantly, have fun!"
+            ],
+            "tags": [
+                "Dance",
+                "Fan Culture"
+            ],
+            "date": "2026-08-28",
+            "popularity": 88,
+            "author": "Mahnoor T.",
+            "readTime": "2 min read",
+            "featured": true
+        },
+        {
+            "id": "art-kpop-beginners",
+            "category": "kpop",
+            "title": "A Beginner's Guide to K-Pop Fandom Culture",
+            "image": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
+            "description": "Lightsticks, fan chants, comebacks and photocards - a simple guide to the words you'll hear.",
+            "body": [
+                "If you're new to K-Pop you'll hear a lot of new words. Here are the basics.",
+                "A 'comeback' is when a group releases new music, not when they return after a break. Each group also has a fandom name - BTS fans are ARMY, BLACKPINK fans are BLINK and TWICE fans are ONCE.",
+                "Lightsticks are official glowing sticks for each group. At concerts they are synced so the whole stadium changes colour together.",
+                "Fan chants are shouted by fans during specific parts of a song, usually the members' names. Fans learn them before concerts.",
+                "Photocards are small photos of members that come inside albums. Many fans collect and trade them - which is why photocard binders are so popular."
+            ],
+            "tags": [
+                "Fan Culture"
+            ],
+            "date": "2026-05-06",
+            "popularity": 76,
+            "author": "Zara I.",
+            "readTime": "2 min read",
+            "featured": false
+        },
+        {
+            "id": "art-spider-verse-changed",
+            "category": "comics",
+            "title": "Why Spider-Verse Changed Animated Superhero Films",
+            "image": "https://i.ytimg.com/vi/shW9i6k8cB0/hqdefault.jpg",
+            "description": "Comic book dots, different art styles in one movie and a hero anyone can relate to.",
+            "body": [
+                "Spider-Man: Into the Spider-Verse came out in 2018 and looked like nothing else. It used comic book dots, speech boxes and frame rates that make it feel like a moving comic.",
+                "Each Spider-person has their own art style. Spider-Man Noir is black and white, Peni Parker looks like an anime character and Spider-Ham looks like an old cartoon.",
+                "Across the Spider-Verse went even further with whole worlds drawn in completely different styles, like watercolour for Gwen's universe.",
+                "But the story is what makes it great. Miles Morales is a normal teenager who doubts himself. The message 'anyone can wear the mask' connected with people everywhere.",
+                "After these movies, many other studios started trying more creative animation styles."
+            ],
+            "tags": [
+                "Marvel",
+                "Animation"
+            ],
+            "date": "2026-07-08",
+            "popularity": 92,
+            "author": "Hamza R.",
+            "readTime": "2 min read",
+            "featured": true
+        },
+        {
+            "id": "art-batman-legacy",
+            "category": "comics",
+            "title": "Batman: More Than 85 Years of the Dark Knight",
+            "image": "https://i.ytimg.com/vi/mqqft2x_Aa4/hqdefault.jpg",
+            "description": "From 1939 comics to The Batman - why Bruce Wayne keeps coming back.",
+            "body": [
+                "Batman first appeared in Detective Comics #27 in 1939. More than 85 years later he is still one of the most popular heroes in the world.",
+                "Part of his appeal is that he has no superpowers. Anyone could, in theory, train hard and become Batman. He relies on his mind, his gadgets and his detective skills.",
+                "He also has the best villains. The Joker, Riddler, Catwoman, Two-Face and Penguin are all famous on their own.",
+                "Every generation gets its own Batman - Adam West, Michael Keaton, Christian Bale, Ben Affleck and Robert Pattinson all played him differently.",
+                "If you want to read the comics, Batman: Year One and The Long Halloween are great places to start."
+            ],
+            "tags": [
+                "DC",
+                "Superhero"
+            ],
+            "date": "2026-04-02",
+            "popularity": 85,
+            "author": "Usman A.",
+            "readTime": "2 min read",
+            "featured": false
+        },
+        {
+            "id": "art-manga-vs-anime",
+            "category": "manga",
+            "title": "Manga vs Anime: Which Should You Start With?",
+            "image": "Images/banner 1.jfif",
+            "description": "Reading or watching? We compare both so you can decide.",
+            "body": [
+                "A lot of new fans ask the same question: should I read the manga or watch the anime first? The honest answer is - it depends on you.",
+                "Manga is usually ahead of the anime in story, so readers get to see what happens next. It is also faster - you can read in an hour what the anime shows over several episodes.",
+                "Anime adds music, voice acting and colour. Some fights, like in Jujutsu Kaisen or Demon Slayer, become much more exciting when animated.",
+                "Our tip: watch the first season of the anime. If you love it and can't wait, continue in the manga from where the anime stops.",
+                "Remember to support official releases through apps like Manga Plus or buying volumes from local bookstores."
+            ],
+            "tags": [
+                "Shonen"
+            ],
+            "date": "2026-06-25",
+            "popularity": 83,
+            "author": "Ayesha K.",
+            "readTime": "2 min read",
+            "featured": true
+        },
+        {
+            "id": "art-one-piece-fresh",
+            "category": "manga",
+            "title": "How One Piece Stays Fresh After So Many Years",
+            "image": "https://i.ytimg.com/vi/Ades3pQbeh8/hqdefault.jpg",
+            "description": "Eiichiro Oda started One Piece in 1997. Here's why it is still one of the biggest manga in the world.",
+            "body": [
+                "One Piece started in Weekly Shonen Jump in 1997 and it is still running. It is one of the best selling comics in history.",
+                "The world keeps growing. Every new island has its own culture, problems and characters, so the story never feels stuck in one place.",
+                "Oda also plans clues years in advance. Small details in early chapters turn out to be important hundreds of chapters later, which makes fans love making theories.",
+                "The Netflix live action series introduced One Piece to a new audience who had never read manga before.",
+                "It looks long, but many fans say the journey is worth it. Start from chapter one and enjoy the ride."
+            ],
+            "tags": [
+                "Shonen",
+                "Action"
+            ],
+            "date": "2026-08-01",
+            "popularity": 87,
+            "author": "Bilal M.",
+            "readTime": "2 min read",
+            "featured": false
+        }
+    ],
+    "videos": [
+        {
+            "id": "vid-a9tq0aS5Zu8",
+            "category": "anime",
+            "title": "Demon Slayer: Swordsmith Village Arc Trailer",
+            "videoId": "a9tq0aS5Zu8",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Tanjiro heads to the hidden village of the swordsmiths to get a new blade.",
+            "tags": [
+                "Action",
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg",
+            "date": "2023-02-10",
+            "popularity": 96,
+            "featured": true
+        },
+        {
+            "id": "vid-VQGCKyvzIM4",
+            "category": "anime",
+            "title": "Demon Slayer: Kimetsu no Yaiba - Trailer 1",
+            "videoId": "VQGCKyvzIM4",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "The very first trailer that started the Demon Slayer craze.",
+            "tags": [
+                "Action",
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+            "date": "2019-03-20",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-M_OauHnAFc8",
+            "category": "anime",
+            "title": "Attack on Titan Final Season - Official Trailer",
+            "videoId": "M_OauHnAFc8",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "The war between Marley and Paradis reaches its final chapter.",
+            "tags": [
+                "Action",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/M_OauHnAFc8/hqdefault.jpg",
+            "date": "2020-10-01",
+            "popularity": 94,
+            "featured": true
+        },
+        {
+            "id": "vid-xU47nhruN-Q",
+            "category": "anime",
+            "title": "Your Name - Trailer",
+            "videoId": "xU47nhruN-Q",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Two strangers find themselves linked in a bizarre way in Makoto Shinkai's hit film.",
+            "tags": [
+                "Romance",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/xU47nhruN-Q/hqdefault.jpg",
+            "date": "2016-08-26",
+            "popularity": 88,
+            "featured": false
+        },
+        {
+            "id": "vid-ByXuk9QqQkk",
+            "category": "anime",
+            "title": "Spirited Away - Official Trailer",
+            "videoId": "ByXuk9QqQkk",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Chihiro wanders into a world of spirits in Studio Ghibli's Oscar winning classic.",
+            "tags": [
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/ByXuk9QqQkk/hqdefault.jpg",
+            "date": "2001-07-20",
+            "popularity": 91,
+            "featured": false
+        },
+        {
+            "id": "vid-6ohYYtxfDCg",
+            "category": "anime",
+            "title": "Sword Art Online - Official Trailer",
+            "videoId": "6ohYYtxfDCg",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Players get trapped inside a virtual reality MMO where dying in the game is real.",
+            "tags": [
+                "Isekai",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/6ohYYtxfDCg/hqdefault.jpg",
+            "date": "2012-07-08",
+            "popularity": 75,
+            "featured": false
+        },
+        {
+            "id": "vid-pmanD_s7G3U",
+            "category": "anime",
+            "title": "Demon Slayer Opening - Gurenge by LiSA",
+            "videoId": "pmanD_s7G3U",
+            "videoType": "fan content",
+            "status": "released",
+            "description": "The opening song fans still can't skip. A fan favourite every single time.",
+            "tags": [
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/pmanD_s7G3U/hqdefault.jpg",
+            "date": "2019-04-06",
+            "popularity": 93,
+            "featured": false
+        },
+        {
+            "id": "vid-LHtdKWJdif4",
+            "category": "anime",
+            "title": "Attack on Titan - PV 2",
+            "videoId": "LHtdKWJdif4",
+            "videoType": "fan content",
+            "status": "released",
+            "description": "Classic promo video from the first season, loved by long time fans.",
+            "tags": [
+                "Action",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/LHtdKWJdif4/hqdefault.jpg",
+            "date": "2013-03-15",
+            "popularity": 70,
+            "featured": false
+        },
+        {
+            "id": "vid-QdBZY2fkU-0",
+            "category": "gaming",
+            "title": "Grand Theft Auto VI - Trailer 1",
+            "videoId": "QdBZY2fkU-0",
+            "videoType": "trailer",
+            "status": "upcoming",
+            "description": "Welcome to Vice City. Lucia and Jason's story begins in Leonida.",
+            "tags": [
+                "Open World",
+                "Action",
+                "GTA"
+            ],
+            "image": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
+            "date": "2023-12-05",
+            "popularity": 99,
+            "featured": true
+        },
+        {
+            "id": "vid-QkkoHAzjnUs",
+            "category": "gaming",
+            "title": "Grand Theft Auto V - Trailer",
+            "videoId": "QkkoHAzjnUs",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Michael, Franklin and Trevor pull heists across Los Santos.",
+            "tags": [
+                "Open World",
+                "Action",
+                "GTA"
+            ],
+            "image": "https://i.ytimg.com/vi/QkkoHAzjnUs/hqdefault.jpg",
+            "date": "2012-11-02",
+            "popularity": 85,
+            "featured": false
+        },
+        {
+            "id": "vid-qIcTM8WXFjk",
+            "category": "gaming",
+            "title": "Cyberpunk 2077 - E3 2019 Cinematic Trailer",
+            "videoId": "qIcTM8WXFjk",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Night City, mercenaries and a surprise appearance from Keanu Reeves.",
+            "tags": [
+                "Open World",
+                "RPG"
+            ],
+            "image": "https://i.ytimg.com/vi/qIcTM8WXFjk/hqdefault.jpg",
+            "date": "2019-06-09",
+            "popularity": 89,
+            "featured": false
+        },
+        {
+            "id": "vid-8X2kIfS6fb8",
+            "category": "gaming",
+            "title": "Cyberpunk 2077 - E3 2018 Trailer",
+            "videoId": "8X2kIfS6fb8",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "The trailer that first showed life on the streets of Night City.",
+            "tags": [
+                "RPG"
+            ],
+            "image": "https://i.ytimg.com/vi/8X2kIfS6fb8/hqdefault.jpg",
+            "date": "2018-06-10",
+            "popularity": 72,
+            "featured": false
+        },
+        {
+            "id": "vid-E3Huy2cdih0",
+            "category": "gaming",
+            "title": "Elden Ring - Official Gameplay Reveal",
+            "videoId": "E3Huy2cdih0",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "FromSoftware and George R. R. Martin build the Lands Between.",
+            "tags": [
+                "RPG",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/E3Huy2cdih0/hqdefault.jpg",
+            "date": "2021-06-10",
+            "popularity": 92,
+            "featured": true
+        },
+        {
+            "id": "vid-c0i88t0Kacs",
+            "category": "gaming",
+            "title": "The Witcher 3 - Killing Monsters Cinematic",
+            "videoId": "c0i88t0Kacs",
+            "videoType": "fan content",
+            "status": "released",
+            "description": "Geralt shows why nobody messes with a witcher. Fans rewatch this every year.",
+            "tags": [
+                "RPG"
+            ],
+            "image": "https://i.ytimg.com/vi/c0i88t0Kacs/hqdefault.jpg",
+            "date": "2014-01-30",
+            "popularity": 87,
+            "featured": false
+        },
+        {
+            "id": "vid-MmB9b5njVbA",
+            "category": "gaming",
+            "title": "Official Minecraft Trailer",
+            "videoId": "MmB9b5njVbA",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Build anything, explore everything - the block game that took over the world.",
+            "tags": [
+                "Sandbox"
+            ],
+            "image": "https://i.ytimg.com/vi/MmB9b5njVbA/hqdefault.jpg",
+            "date": "2013-06-01",
+            "popularity": 80,
+            "featured": false
+        },
+        {
+            "id": "vid-EE-4GvjKcfs",
+            "category": "gaming",
+            "title": "God of War Ragnarok - Reveal Trailer",
+            "videoId": "EE-4GvjKcfs",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Kratos and Atreus face the end of the Norse world.",
+            "tags": [
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/EE-4GvjKcfs/hqdefault.jpg",
+            "date": "2021-09-09",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-gmA6MrX81z4",
+            "category": "gaming",
+            "title": "Red Dead Redemption 2 - Trailer",
+            "videoId": "gmA6MrX81z4",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Arthur Morgan and the Van der Linde gang ride across a dying Wild West.",
+            "tags": [
+                "Open World",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/gmA6MrX81z4/hqdefault.jpg",
+            "date": "2016-10-20",
+            "popularity": 91,
+            "featured": false
+        },
+        {
+            "id": "vid-uHGShqcAHlQ",
+            "category": "gaming",
+            "title": "Zelda: Tears of the Kingdom - Trailer 3",
+            "videoId": "uHGShqcAHlQ",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Link returns to explore the skies above Hyrule.",
+            "tags": [
+                "Open World"
+            ],
+            "image": "https://i.ytimg.com/vi/uHGShqcAHlQ/hqdefault.jpg",
+            "date": "2023-04-13",
+            "popularity": 86,
+            "featured": false
+        },
+        {
+            "id": "vid-TcMBFSGVi1c",
+            "category": "movies",
+            "title": "Avengers: Endgame - Official Trailer",
+            "videoId": "TcMBFSGVi1c",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Earth's mightiest heroes assemble one last time against Thanos.",
+            "tags": [
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/TcMBFSGVi1c/hqdefault.jpg",
+            "date": "2019-03-14",
+            "popularity": 97,
+            "featured": true
+        },
+        {
+            "id": "vid-6ZfuNTqbHE8",
+            "category": "movies",
+            "title": "Avengers: Infinity War - Official Trailer",
+            "videoId": "6ZfuNTqbHE8",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Thanos hunts the Infinity Stones and nobody is safe.",
+            "tags": [
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/6ZfuNTqbHE8/hqdefault.jpg",
+            "date": "2017-11-29",
+            "popularity": 92,
+            "featured": false
+        },
+        {
+            "id": "vid-zSWdZVtXT7E",
+            "category": "movies",
+            "title": "Interstellar - Official Trailer",
+            "videoId": "zSWdZVtXT7E",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "A voyage through a wormhole to save humanity.",
+            "tags": [
+                "Sci-Fi",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/zSWdZVtXT7E/hqdefault.jpg",
+            "date": "2014-05-16",
+            "popularity": 95,
+            "featured": false
+        },
+        {
+            "id": "vid-EXeTwQWrcwY",
+            "category": "movies",
+            "title": "The Dark Knight - Official Trailer",
+            "videoId": "EXeTwQWrcwY",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Batman faces the Joker in Nolan's crime masterpiece.",
+            "tags": [
+                "Superhero",
+                "Thriller"
+            ],
+            "image": "https://i.ytimg.com/vi/EXeTwQWrcwY/hqdefault.jpg",
+            "date": "2008-05-01",
+            "popularity": 94,
+            "featured": false
+        },
+        {
+            "id": "vid-YoHD9XEInc0",
+            "category": "movies",
+            "title": "Inception - Official Trailer",
+            "videoId": "YoHD9XEInc0",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "A thief who steals secrets through dreams gets one last job.",
+            "tags": [
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "image": "https://i.ytimg.com/vi/YoHD9XEInc0/hqdefault.jpg",
+            "date": "2010-05-10",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-8g18jFHCLXk",
+            "category": "movies",
+            "title": "Dune - Official Main Trailer",
+            "videoId": "8g18jFHCLXk",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Paul Atreides arrives on Arrakis, the most dangerous planet in the universe.",
+            "tags": [
+                "Sci-Fi"
+            ],
+            "image": "https://i.ytimg.com/vi/8g18jFHCLXk/hqdefault.jpg",
+            "date": "2021-07-22",
+            "popularity": 88,
+            "featured": false
+        },
+        {
+            "id": "vid-Way9Dexny3w",
+            "category": "movies",
+            "title": "Dune: Part Two - Official Trailer",
+            "videoId": "Way9Dexny3w",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Paul unites with Chani and the Fremen on a path of revenge.",
+            "tags": [
+                "Sci-Fi"
+            ],
+            "image": "https://i.ytimg.com/vi/Way9Dexny3w/hqdefault.jpg",
+            "date": "2023-05-03",
+            "popularity": 93,
+            "featured": true
+        },
+        {
+            "id": "vid-uYPbbksJxIg",
+            "category": "movies",
+            "title": "Oppenheimer - Official Trailer",
+            "videoId": "uYPbbksJxIg",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "The story of the man who changed the world forever.",
+            "tags": [
+                "Drama",
+                "Thriller"
+            ],
+            "image": "https://i.ytimg.com/vi/uYPbbksJxIg/hqdefault.jpg",
+            "date": "2022-12-18",
+            "popularity": 89,
+            "featured": false
+        },
+        {
+            "id": "vid-mObK5XD8udk",
+            "category": "movies",
+            "title": "Harry Potter and the Deathly Hallows Part 2 - Trailer",
+            "videoId": "mObK5XD8udk",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "It all ends. The final battle for Hogwarts.",
+            "tags": [
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/mObK5XD8udk/hqdefault.jpg",
+            "date": "2011-04-28",
+            "popularity": 91,
+            "featured": false
+        },
+        {
+            "id": "vid-d9MyW72ELq0",
+            "category": "movies",
+            "title": "Avatar: The Way of Water - Trailer",
+            "videoId": "d9MyW72ELq0",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Jake Sully's family explores the oceans of Pandora.",
+            "tags": [
+                "Sci-Fi",
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/d9MyW72ELq0/hqdefault.jpg",
+            "date": "2022-11-02",
+            "popularity": 84,
+            "featured": false
+        },
+        {
+            "id": "vid-b9EkMc79ZSU",
+            "category": "tv",
+            "title": "Stranger Things - Official Final Trailer",
+            "videoId": "b9EkMc79ZSU",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Hawkins faces the Upside Down one last time.",
+            "tags": [
+                "Sci-Fi",
+                "Mystery"
+            ],
+            "image": "https://i.ytimg.com/vi/b9EkMc79ZSU/hqdefault.jpg",
+            "date": "2025-11-01",
+            "popularity": 96,
+            "featured": true
+        },
+        {
+            "id": "vid-Di310WS8zLk",
+            "category": "tv",
+            "title": "Wednesday Addams - Official Teaser",
+            "videoId": "Di310WS8zLk",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Wednesday arrives at Nevermore Academy and things get weird.",
+            "tags": [
+                "Mystery",
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/Di310WS8zLk/hqdefault.jpg",
+            "date": "2022-08-17",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-rlR4PJn8b8I",
+            "category": "tv",
+            "title": "Game of Thrones Season 8 - Official Trailer",
+            "videoId": "rlR4PJn8b8I",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "The Great War is here. The final season of Game of Thrones.",
+            "tags": [
+                "Fantasy",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/rlR4PJn8b8I/hqdefault.jpg",
+            "date": "2019-03-05",
+            "popularity": 92,
+            "featured": false
+        },
+        {
+            "id": "vid-s7L2PVdrb_8",
+            "category": "tv",
+            "title": "Game of Thrones - Opening Credits",
+            "videoId": "s7L2PVdrb_8",
+            "videoType": "fan content",
+            "status": "released",
+            "description": "The iconic clockwork map and theme music. Fans know every note.",
+            "tags": [
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/s7L2PVdrb_8/hqdefault.jpg",
+            "date": "2011-04-17",
+            "popularity": 88,
+            "featured": false
+        },
+        {
+            "id": "vid-HhesaQXLuRY",
+            "category": "tv",
+            "title": "Breaking Bad - Season 1 Trailer",
+            "videoId": "HhesaQXLuRY",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "A chemistry teacher makes a very bad career change.",
+            "tags": [
+                "Drama",
+                "Thriller"
+            ],
+            "image": "https://i.ytimg.com/vi/HhesaQXLuRY/hqdefault.jpg",
+            "date": "2008-01-20",
+            "popularity": 89,
+            "featured": false
+        },
+        {
+            "id": "vid-DotnJ7tTA34",
+            "category": "tv",
+            "title": "House of the Dragon - Official Trailer",
+            "videoId": "DotnJ7tTA34",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "The Targaryen civil war begins, 200 years before Game of Thrones.",
+            "tags": [
+                "Fantasy",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/DotnJ7tTA34/hqdefault.jpg",
+            "date": "2022-07-20",
+            "popularity": 87,
+            "featured": false
+        },
+        {
+            "id": "vid-uLtkt8BonwM",
+            "category": "tv",
+            "title": "The Last of Us - Official Trailer",
+            "videoId": "uLtkt8BonwM",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Joel and Ellie cross a broken America in HBO's adaptation.",
+            "tags": [
+                "Drama",
+                "Sci-Fi"
+            ],
+            "image": "https://i.ytimg.com/vi/uLtkt8BonwM/hqdefault.jpg",
+            "date": "2022-12-05",
+            "popularity": 91,
+            "featured": false
+        },
+        {
+            "id": "vid-oqxAJKy0ii4",
+            "category": "tv",
+            "title": "Squid Game - Official Trailer",
+            "videoId": "oqxAJKy0ii4",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "456 players, deadly children's games and a huge cash prize.",
+            "tags": [
+                "Thriller",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/oqxAJKy0ii4/hqdefault.jpg",
+            "date": "2021-09-01",
+            "popularity": 93,
+            "featured": false
+        },
+        {
+            "id": "vid-gdZLi9oWNZg",
+            "category": "kpop",
+            "title": "BTS - Dynamite (Official MV)",
+            "videoId": "gdZLi9oWNZg",
+            "videoType": "music video",
+            "status": "released",
+            "description": "BTS's first all-English single and a global disco-pop hit.",
+            "tags": [
+                "Boy Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
+            "date": "2020-08-21",
+            "popularity": 98,
+            "featured": true
+        },
+        {
+            "id": "vid-WMweEpGlu_U",
+            "category": "kpop",
+            "title": "BTS - Butter (Official MV)",
+            "videoId": "WMweEpGlu_U",
+            "videoType": "music video",
+            "status": "released",
+            "description": "Smooth like butter - another record-breaking BTS single.",
+            "tags": [
+                "Boy Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
+            "date": "2021-05-21",
+            "popularity": 94,
+            "featured": false
+        },
+        {
+            "id": "vid-XsX3ATc3FbA",
+            "category": "kpop",
+            "title": "BTS - Boy With Luv ft. Halsey (Official MV)",
+            "videoId": "XsX3ATc3FbA",
+            "videoType": "music video",
+            "status": "released",
+            "description": "A bright pink pop song celebrating the small things in life.",
+            "tags": [
+                "Boy Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
+            "date": "2019-04-12",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-MBdVXkSdhwU",
+            "category": "kpop",
+            "title": "BTS - DNA (Official MV)",
+            "videoId": "MBdVXkSdhwU",
+            "videoType": "music video",
+            "status": "released",
+            "description": "The colourful 2017 single that took BTS to the next level.",
+            "tags": [
+                "Boy Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
+            "date": "2017-09-18",
+            "popularity": 86,
+            "featured": false
+        },
+        {
+            "id": "vid-IHNzOHi8sJs",
+            "category": "kpop",
+            "title": "BLACKPINK - DDU-DU DDU-DU (MV)",
+            "videoId": "IHNzOHi8sJs",
+            "videoType": "music video",
+            "status": "released",
+            "description": "The hit that made BLACKPINK a worldwide name.",
+            "tags": [
+                "Girl Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/IHNzOHi8sJs/hqdefault.jpg",
+            "date": "2018-06-15",
+            "popularity": 95,
+            "featured": false
+        },
+        {
+            "id": "vid-ioNng23DkIM",
+            "category": "kpop",
+            "title": "BLACKPINK - How You Like That (MV)",
+            "videoId": "ioNng23DkIM",
+            "videoType": "music video",
+            "status": "released",
+            "description": "Huge sets, powerful choreography and a massive chorus.",
+            "tags": [
+                "Girl Group",
+                "Music Video",
+                "Dance"
+            ],
+            "image": "https://i.ytimg.com/vi/ioNng23DkIM/hqdefault.jpg",
+            "date": "2020-06-26",
+            "popularity": 93,
+            "featured": true
+        },
+        {
+            "id": "vid-2S24-y0Ij3Y",
+            "category": "kpop",
+            "title": "BLACKPINK - Kill This Love (MV)",
+            "videoId": "2S24-y0Ij3Y",
+            "videoType": "music video",
+            "status": "released",
+            "description": "Marching drums and bold visuals from BLACKPINK.",
+            "tags": [
+                "Girl Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/2S24-y0Ij3Y/hqdefault.jpg",
+            "date": "2019-04-04",
+            "popularity": 85,
+            "featured": false
+        },
+        {
+            "id": "vid-gQlMMD8auMs",
+            "category": "kpop",
+            "title": "BLACKPINK - Pink Venom (MV)",
+            "videoId": "gQlMMD8auMs",
+            "videoType": "music video",
+            "status": "released",
+            "description": "Traditional Korean instruments meet hip hop in this 2022 single.",
+            "tags": [
+                "Girl Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/gQlMMD8auMs/hqdefault.jpg",
+            "date": "2022-08-19",
+            "popularity": 84,
+            "featured": false
+        },
+        {
+            "id": "vid-ePpPVE-GGJw",
+            "category": "kpop",
+            "title": "TWICE - TT (MV)",
+            "videoId": "ePpPVE-GGJw",
+            "videoType": "music video",
+            "status": "released",
+            "description": "The Halloween themed song that made the 'TT' pose famous.",
+            "tags": [
+                "Girl Group",
+                "Music Video",
+                "Dance"
+            ],
+            "image": "https://i.ytimg.com/vi/ePpPVE-GGJw/hqdefault.jpg",
+            "date": "2016-10-24",
+            "popularity": 83,
+            "featured": false
+        },
+        {
+            "id": "vid-i0p1bmr0EmE",
+            "category": "kpop",
+            "title": "TWICE - What is Love? (MV)",
+            "videoId": "i0p1bmr0EmE",
+            "videoType": "music video",
+            "status": "released",
+            "description": "TWICE recreate famous movie scenes in this fun MV.",
+            "tags": [
+                "Girl Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/i0p1bmr0EmE/hqdefault.jpg",
+            "date": "2018-04-09",
+            "popularity": 80,
+            "featured": false
+        },
+        {
+            "id": "vid-11cta61wi0g",
+            "category": "kpop",
+            "title": "NewJeans - Hype Boy (Performance ver.)",
+            "videoId": "11cta61wi0g",
+            "videoType": "fan content",
+            "status": "released",
+            "description": "Performance version of the song that started the 'Hype Boy' dance challenge.",
+            "tags": [
+                "Girl Group",
+                "Dance"
+            ],
+            "image": "https://i.ytimg.com/vi/11cta61wi0g/hqdefault.jpg",
+            "date": "2022-08-01",
+            "popularity": 88,
+            "featured": false
+        },
+        {
+            "id": "vid-TQTlCHxyuu8",
+            "category": "kpop",
+            "title": "Stray Kids - God's Menu (MV)",
+            "videoId": "TQTlCHxyuu8",
+            "videoType": "music video",
+            "status": "released",
+            "description": "Stray Kids serve up a loud, cooking-themed performance.",
+            "tags": [
+                "Boy Group",
+                "Music Video"
+            ],
+            "image": "https://i.ytimg.com/vi/TQTlCHxyuu8/hqdefault.jpg",
+            "date": "2020-06-17",
+            "popularity": 82,
+            "featured": false
+        },
+        {
+            "id": "vid-9bZkp7q19f0",
+            "category": "kpop",
+            "title": "PSY - Gangnam Style (MV)",
+            "videoId": "9bZkp7q19f0",
+            "videoType": "fan content",
+            "status": "released",
+            "description": "The first YouTube video to hit one billion views. A true classic.",
+            "tags": [
+                "Dance",
+                "Fan Culture"
+            ],
+            "image": "https://i.ytimg.com/vi/9bZkp7q19f0/hqdefault.jpg",
+            "date": "2012-07-15",
+            "popularity": 97,
+            "featured": false
+        },
+        {
+            "id": "vid-shW9i6k8cB0",
+            "category": "comics",
+            "title": "Spider-Man: Across the Spider-Verse - Trailer 2",
+            "videoId": "shW9i6k8cB0",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Miles Morales meets the Spider-Society across the multiverse.",
+            "tags": [
+                "Marvel",
+                "Animation"
+            ],
+            "image": "https://i.ytimg.com/vi/shW9i6k8cB0/hqdefault.jpg",
+            "date": "2022-12-13",
+            "popularity": 95,
+            "featured": true
+        },
+        {
+            "id": "vid-g4Hbz2jLxvQ",
+            "category": "comics",
+            "title": "Spider-Man: Into the Spider-Verse - Trailer",
+            "videoId": "g4Hbz2jLxvQ",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Anyone can wear the mask. Miles Morales becomes Spider-Man.",
+            "tags": [
+                "Marvel",
+                "Animation"
+            ],
+            "image": "https://i.ytimg.com/vi/g4Hbz2jLxvQ/hqdefault.jpg",
+            "date": "2018-06-06",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-JfVOs4VSpmA",
+            "category": "comics",
+            "title": "Spider-Man: No Way Home - Trailer",
+            "videoId": "JfVOs4VSpmA",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "The multiverse is unleashed and old villains return.",
+            "tags": [
+                "Marvel",
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/JfVOs4VSpmA/hqdefault.jpg",
+            "date": "2021-11-16",
+            "popularity": 94,
+            "featured": false
+        },
+        {
+            "id": "vid-mqqft2x_Aa4",
+            "category": "comics",
+            "title": "The Batman - Main Trailer",
+            "videoId": "mqqft2x_Aa4",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "A young Batman hunts the Riddler through a rain-soaked Gotham.",
+            "tags": [
+                "DC",
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/mqqft2x_Aa4/hqdefault.jpg",
+            "date": "2021-10-16",
+            "popularity": 92,
+            "featured": false
+        },
+        {
+            "id": "vid-zAGVQLHvwOY",
+            "category": "comics",
+            "title": "Joker - Final Trailer",
+            "videoId": "zAGVQLHvwOY",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Arthur Fleck's slow fall into becoming the Joker.",
+            "tags": [
+                "DC",
+                "Villain"
+            ],
+            "image": "https://i.ytimg.com/vi/zAGVQLHvwOY/hqdefault.jpg",
+            "date": "2019-08-28",
+            "popularity": 91,
+            "featured": false
+        },
+        {
+            "id": "vid-73_1biulkYk",
+            "category": "comics",
+            "title": "Deadpool & Wolverine - Official Trailer",
+            "videoId": "73_1biulkYk",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Deadpool drags a very unhappy Wolverine into the MCU.",
+            "tags": [
+                "Marvel",
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/73_1biulkYk/hqdefault.jpg",
+            "date": "2024-04-22",
+            "popularity": 93,
+            "featured": false
+        },
+        {
+            "id": "vid-xjDjIWPwcPU",
+            "category": "comics",
+            "title": "Black Panther - Official Trailer",
+            "videoId": "xjDjIWPwcPU",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "T'Challa returns home to Wakanda to take his place as king.",
+            "tags": [
+                "Marvel",
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/xjDjIWPwcPU/hqdefault.jpg",
+            "date": "2017-10-16",
+            "popularity": 88,
+            "featured": false
+        },
+        {
+            "id": "vid-Ox8ZLF6cGM0",
+            "category": "comics",
+            "title": "Superman - Official Trailer",
+            "videoId": "Ox8ZLF6cGM0",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "James Gunn's new take on the Man of Steel.",
+            "tags": [
+                "DC",
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/Ox8ZLF6cGM0/hqdefault.jpg",
+            "date": "2025-05-14",
+            "popularity": 89,
+            "featured": false
+        },
+        {
+            "id": "vid-T6DJcgm3wNY",
+            "category": "comics",
+            "title": "Man of Steel - Trailer 3",
+            "videoId": "T6DJcgm3wNY",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Clark Kent learns what it means to be Superman.",
+            "tags": [
+                "DC",
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/T6DJcgm3wNY/hqdefault.jpg",
+            "date": "2012-12-10",
+            "popularity": 78,
+            "featured": false
+        },
+        {
+            "id": "vid-u9Mv98Gr5pY",
+            "category": "comics",
+            "title": "Venom - Official Trailer",
+            "videoId": "u9Mv98Gr5pY",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Eddie Brock bonds with an alien symbiote.",
+            "tags": [
+                "Marvel",
+                "Villain"
+            ],
+            "image": "https://i.ytimg.com/vi/u9Mv98Gr5pY/hqdefault.jpg",
+            "date": "2018-04-24",
+            "popularity": 80,
+            "featured": false
+        },
+        {
+            "id": "vid-Ades3pQbeh8",
+            "category": "manga",
+            "title": "ONE PIECE Live Action - Official Trailer",
+            "videoId": "Ades3pQbeh8",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Luffy and the Straw Hats set sail in Netflix's live action adaptation.",
+            "tags": [
+                "Shonen",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/Ades3pQbeh8/hqdefault.jpg",
+            "date": "2023-07-26",
+            "popularity": 93,
+            "featured": true
+        },
+        {
+            "id": "vid-NlJZ-YgAt-c",
+            "category": "manga",
+            "title": "Death Note - Official Trailer",
+            "videoId": "NlJZ-YgAt-c",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Light Yagami finds a notebook that can kill anyone whose name is written in it.",
+            "tags": [
+                "Mystery",
+                "Dark Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/NlJZ-YgAt-c/hqdefault.jpg",
+            "date": "2020-01-01",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-q15CRdE5Bv0",
+            "category": "manga",
+            "title": "Chainsaw Man - Teaser PV",
+            "videoId": "q15CRdE5Bv0",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Denji, Pochita and a whole lot of chainsaws.",
+            "tags": [
+                "Dark Fantasy",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/q15CRdE5Bv0/hqdefault.jpg",
+            "date": "2021-06-27",
+            "popularity": 88,
+            "featured": false
+        },
+        {
+            "id": "vid-dFlDRhvM4L0",
+            "category": "manga",
+            "title": "Chainsaw Man Opening - KICK BACK",
+            "videoId": "dFlDRhvM4L0",
+            "videoType": "fan content",
+            "status": "released",
+            "description": "Kenshi Yonezu's wild opening full of movie references.",
+            "tags": [
+                "Dark Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/dFlDRhvM4L0/hqdefault.jpg",
+            "date": "2022-10-12",
+            "popularity": 94,
+            "featured": false
+        },
+        {
+            "id": "vid-pkKu9hLT-t8",
+            "category": "manga",
+            "title": "Jujutsu Kaisen - Official Trailer",
+            "videoId": "pkKu9hLT-t8",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "Yuji Itadori swallows a cursed finger and joins Jujutsu High.",
+            "tags": [
+                "Shonen",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/pkKu9hLT-t8/hqdefault.jpg",
+            "date": "2020-09-01",
+            "popularity": 92,
+            "featured": false
+        },
+        {
+            "id": "vid-ofXigq9aIpo",
+            "category": "manga",
+            "title": "SPY x FAMILY - Main Trailer",
+            "videoId": "ofXigq9aIpo",
+            "videoType": "trailer",
+            "status": "released",
+            "description": "A spy, an assassin and a telepath pretend to be a normal family.",
+            "tags": [
+                "Comedy",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/ofXigq9aIpo/hqdefault.jpg",
+            "date": "2022-03-01",
+            "popularity": 89,
+            "featured": false
+        },
+        {
+            "id": "vid-x7uLutVRBfI",
+            "category": "anime",
+            "title": "Demon Slayer: Infinity Castle - Main Trailer",
+            "videoId": "x7uLutVRBfI",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "The Hashira enter Muzan's Infinity Castle for the final battle.",
+            "tags": [
+                "Action",
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/x7uLutVRBfI/hqdefault.jpg",
+            "date": "2025-06-01",
+            "popularity": 98,
+            "featured": true
+        },
+        {
+            "id": "vid-EOMVXqH9DSg",
+            "category": "anime",
+            "title": "Frieren: Beyond Journey's End Season 2 - Trailer 2",
+            "videoId": "EOMVXqH9DSg",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "Frieren's slow and beautiful journey continues in season 2.",
+            "tags": [
+                "Fantasy",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/EOMVXqH9DSg/hqdefault.jpg",
+            "date": "2025-12-01",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-tAzAhDNdehs",
+            "category": "manga",
+            "title": "Chainsaw Man - The Movie: Reze Arc - Trailer",
+            "videoId": "tAzAhDNdehs",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "Denji meets Reze, a girl who might be more dangerous than any devil.",
+            "tags": [
+                "Dark Fantasy",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/tAzAhDNdehs/hqdefault.jpg",
+            "date": "2025-08-01",
+            "popularity": 95,
+            "featured": true
+        },
+        {
+            "id": "vid-S-XxKVxZ2fU",
+            "category": "manga",
+            "title": "ONE PIECE Season 2 - Official Trailer",
+            "videoId": "S-XxKVxZ2fU",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "The Straw Hats enter the Grand Line in Netflix's second season.",
+            "tags": [
+                "Shonen",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/S-XxKVxZ2fU/hqdefault.jpg",
+            "date": "2026-02-01",
+            "popularity": 92,
+            "featured": false
+        },
+        {
+            "id": "vid-MPfZhgLiK6w",
+            "category": "manga",
+            "title": "Jujutsu Kaisen: The Culling Game - Trailer",
+            "videoId": "MPfZhgLiK6w",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "A deadly game spreads across Japan in the next part of the story.",
+            "tags": [
+                "Shonen",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/MPfZhgLiK6w/hqdefault.jpg",
+            "date": "2025-12-15",
+            "popularity": 93,
+            "featured": false
+        },
+        {
+            "id": "vid-irVNGjRFZGk",
+            "category": "movies",
+            "title": "Avengers: Doomsday - Official Trailer",
+            "videoId": "irVNGjRFZGk",
+            "videoType": "trailer",
+            "status": "upcoming",
+            "description": "The Avengers face Doctor Doom. In theaters December 18, 2026.",
+            "tags": [
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg",
+            "date": "2026-09-01",
+            "popularity": 99,
+            "featured": true
+        },
+        {
+            "id": "vid-NdvqHc56lE0",
+            "category": "movies",
+            "title": "Dune: Part Three - Official Trailer",
+            "videoId": "NdvqHc56lE0",
+            "videoType": "trailer",
+            "status": "upcoming",
+            "description": "Paul Atreides' story continues in the final chapter of Villeneuve's saga.",
+            "tags": [
+                "Sci-Fi"
+            ],
+            "image": "https://i.ytimg.com/vi/NdvqHc56lE0/hqdefault.jpg",
+            "date": "2026-08-15",
+            "popularity": 96,
+            "featured": false
+        },
+        {
+            "id": "vid-62bIsvRcPv0",
+            "category": "comics",
+            "title": "Spider-Man: Brand New Day - New Trailer",
+            "videoId": "62bIsvRcPv0",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "Peter Parker starts over after everyone forgot who he is.",
+            "tags": [
+                "Marvel",
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/62bIsvRcPv0/hqdefault.jpg",
+            "date": "2026-06-01",
+            "popularity": 96,
+            "featured": true
+        },
+        {
+            "id": "vid-s1-pfiVMKAs",
+            "category": "comics",
+            "title": "Supergirl - Official Trailer",
+            "videoId": "s1-pfiVMKAs",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "Kara Zor-El gets her own adventure in the new DC Universe.",
+            "tags": [
+                "DC",
+                "Superhero"
+            ],
+            "image": "https://i.ytimg.com/vi/s1-pfiVMKAs/hqdefault.jpg",
+            "date": "2026-04-01",
+            "popularity": 88,
+            "featured": false
+        },
+        {
+            "id": "vid-PssKpzB0Ah0",
+            "category": "tv",
+            "title": "Stranger Things 5 - Official Trailer",
+            "videoId": "PssKpzB0Ah0",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "The final season - the gang's last fight against Vecna.",
+            "tags": [
+                "Sci-Fi",
+                "Mystery"
+            ],
+            "image": "https://i.ytimg.com/vi/PssKpzB0Ah0/hqdefault.jpg",
+            "date": "2025-10-30",
+            "popularity": 97,
+            "featured": false
+        },
+        {
+            "id": "vid-03u4xyj0TH4",
+            "category": "tv",
+            "title": "Wednesday Season 2 - Official Trailer",
+            "videoId": "03u4xyj0TH4",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "Wednesday is back at Nevermore with a new mystery.",
+            "tags": [
+                "Mystery",
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/03u4xyj0TH4/hqdefault.jpg",
+            "date": "2025-07-15",
+            "popularity": 91,
+            "featured": false
+        },
+        {
+            "id": "vid-0JlMjgqduVw",
+            "category": "tv",
+            "title": "House of the Dragon Season 3 - Final Trailer",
+            "videoId": "0JlMjgqduVw",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "The war between the Greens and the Blacks reaches new heights.",
+            "tags": [
+                "Fantasy",
+                "Drama"
+            ],
+            "image": "https://i.ytimg.com/vi/0JlMjgqduVw/hqdefault.jpg",
+            "date": "2026-06-01",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-_zHPsmXCjB0",
+            "category": "tv",
+            "title": "The Last of Us Season 2 - Official Trailer",
+            "videoId": "_zHPsmXCjB0",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "Five years later, Ellie and Joel's peace in Jackson is shattered.",
+            "tags": [
+                "Drama",
+                "Sci-Fi"
+            ],
+            "image": "https://i.ytimg.com/vi/_zHPsmXCjB0/hqdefault.jpg",
+            "date": "2025-03-15",
+            "popularity": 89,
+            "featured": false
+        },
+        {
+            "id": "vid-7z7kqwuf0a8",
+            "category": "gaming",
+            "title": "Ghost of Yotei - Announce Trailer",
+            "videoId": "7z7kqwuf0a8",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "A new samurai story set around Mount Yotei in Hokkaido.",
+            "tags": [
+                "Open World",
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/7z7kqwuf0a8/hqdefault.jpg",
+            "date": "2024-09-24",
+            "popularity": 88,
+            "featured": false
+        },
+        {
+            "id": "vid-6XGeJwsUP9c",
+            "category": "gaming",
+            "title": "Hollow Knight: Silksong - Release Trailer",
+            "videoId": "6XGeJwsUP9c",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "After years of waiting, Hornet's adventure finally arrived.",
+            "tags": [
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/6XGeJwsUP9c/hqdefault.jpg",
+            "date": "2025-08-21",
+            "popularity": 90,
+            "featured": false
+        },
+        {
+            "id": "vid-9lrThxCoznw",
+            "category": "gaming",
+            "title": "Resident Evil Requiem - Launch Trailer",
+            "videoId": "9lrThxCoznw",
+            "videoType": "trailer",
+            "status": "recent",
+            "description": "The newest chapter of the survival horror series.",
+            "tags": [
+                "Action"
+            ],
+            "image": "https://i.ytimg.com/vi/9lrThxCoznw/hqdefault.jpg",
+            "date": "2026-02-20",
+            "popularity": 86,
+            "featured": false
+        }
+    ],
+    "audio": [
+        {
+            "id": "aud-anime-1",
+            "category": "anime",
+            "title": "Anime Talk Ep. 12 - Best Openings of All Time",
+            "audioType": "podcast",
+            "file": "Audio/anime-1.mp3",
+            "description": "Our hosts argue about the best anime opening songs ever made.",
+            "tags": [
+                "Action",
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/pmanD_s7G3U/hq2.jpg",
+            "date": "2026-08-30",
+            "popularity": 78,
+            "duration": "0:38",
+            "featured": false
+        },
+        {
+            "id": "aud-anime-2",
+            "category": "anime",
+            "title": "Fan Interview - A Cosplayer's First Convention",
+            "audioType": "interview",
+            "file": "Audio/anime-2.mp3",
+            "description": "We talk to a fan about building her first Nezuko cosplay.",
+            "tags": [
+                "Fantasy"
+            ],
+            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=900&auto=format&fit=crop&q=80",
+            "date": "2026-07-18",
+            "popularity": 70,
+            "duration": "0:33",
+            "featured": false
+        },
+        {
+            "id": "aud-gaming-1",
+            "category": "gaming",
+            "title": "Level Up Podcast Ep. 7 - Waiting for GTA VI",
+            "audioType": "podcast",
+            "file": "Audio/gaming-1.mp3",
+            "description": "Hype, theories and what we want from Vice City.",
+            "tags": [
+                "Open World"
+            ],
+            "image": "https://i.ytimg.com/vi/QdBZY2fkU-0/hq2.jpg",
+            "date": "2026-09-10",
+            "popularity": 85,
+            "duration": "0:32",
+            "featured": false
+        },
+        {
+            "id": "aud-gaming-2",
+            "category": "gaming",
+            "title": "Interview - A Local eSports Player",
+            "audioType": "interview",
+            "file": "Audio/gaming-2.mp3",
+            "description": "A Lahore based Tekken player talks practice routines and tournaments.",
+            "tags": [
+                "eSports"
+            ],
+            "image": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?w=900&auto=format&fit=crop&q=80",
+            "date": "2026-06-22",
+            "popularity": 72,
+            "duration": "0:30",
+            "featured": false
+        },
+        {
+            "id": "aud-movies-1",
+            "category": "movies",
+            "title": "Reel Talk Ep. 4 - Nolan vs Villeneuve",
+            "audioType": "podcast",
+            "file": "Audio/movies-1.mp3",
+            "description": "Two directors, two styles. Which sci-fi filmmaker does it better?",
+            "tags": [
+                "Sci-Fi"
+            ],
+            "image": "https://i.ytimg.com/vi/zSWdZVtXT7E/hq3.jpg",
+            "date": "2026-08-05",
+            "popularity": 74,
+            "duration": "0:35",
+            "featured": false
+        },
+        {
+            "id": "aud-movies-2",
+            "category": "movies",
+            "title": "Interview - Running a Movie Club",
+            "audioType": "interview",
+            "file": "Audio/movies-2.mp3",
+            "description": "How one fan started a weekly movie night with friends.",
+            "tags": [
+                "Drama"
+            ],
+            "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=900&auto=format&fit=crop&q=80",
+            "date": "2026-05-12",
+            "popularity": 60,
+            "duration": "0:26",
+            "featured": false
+        },
+        {
+            "id": "aud-tv-1",
+            "category": "tv",
+            "title": "Binge Watch Ep. 9 - Finales We Loved and Hated",
+            "audioType": "podcast",
+            "file": "Audio/tv-1.mp3",
+            "description": "From Breaking Bad to Game of Thrones, the endings that split fans.",
+            "tags": [
+                "Drama",
+                "Fantasy"
+            ],
+            "image": "https://i.ytimg.com/vi/b9EkMc79ZSU/hq2.jpg",
+            "date": "2026-07-01",
+            "popularity": 76,
+            "duration": "0:31",
+            "featured": false
+        },
+        {
+            "id": "aud-tv-2",
+            "category": "tv",
+            "title": "Interview - The Theory Crafter",
+            "audioType": "interview",
+            "file": "Audio/tv-2.mp3",
+            "description": "A fan who writes long theories about Stranger Things shares his process.",
+            "tags": [
+                "Mystery"
+            ],
+            "image": "https://i.ytimg.com/vi/Di310WS8zLk/hq3.jpg",
+            "date": "2026-04-14",
+            "popularity": 63,
+            "duration": "0:29",
+            "featured": false
+        },
+        {
+            "id": "aud-kpop-1",
+            "category": "kpop",
+            "title": "Seoul Wave Ep. 15 - Fourth Gen Groups",
+            "audioType": "podcast",
+            "file": "Audio/kpop-1.mp3",
+            "description": "Why NewJeans, Stray Kids and others changed K-Pop.",
+            "tags": [
+                "Girl Group",
+                "Boy Group"
+            ],
+            "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=900&auto=format&fit=crop&q=80",
+            "date": "2026-09-02",
+            "popularity": 82,
+            "duration": "0:34",
+            "featured": false
+        },
+        {
+            "id": "aud-kpop-2",
+            "category": "kpop",
+            "title": "Interview - Dance Cover Team Captain",
+            "audioType": "interview",
+            "file": "Audio/kpop-2.mp3",
+            "description": "The captain of a Karachi dance cover team talks about practice and stage nerves.",
+            "tags": [
+                "Dance",
+                "Fan Culture"
+            ],
+            "image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=900&auto=format&fit=crop&q=80",
+            "date": "2026-06-08",
+            "popularity": 71,
+            "duration": "0:29",
+            "featured": false
+        },
+        {
+            "id": "aud-comics-1",
+            "category": "comics",
+            "title": "Panel to Panel Ep. 6 - Best Spider-Man Stories",
+            "audioType": "podcast",
+            "file": "Audio/comics-1.mp3",
+            "description": "Our favourite Spider-Man comics for new readers.",
+            "tags": [
+                "Marvel"
+            ],
+            "image": "https://i.ytimg.com/vi/g4Hbz2jLxvQ/hq3.jpg",
+            "date": "2026-08-20",
+            "popularity": 73,
+            "duration": "0:31",
+            "featured": false
+        },
+        {
+            "id": "aud-comics-2",
+            "category": "comics",
+            "title": "Interview - A Young Comic Artist",
+            "audioType": "interview",
+            "file": "Audio/comics-2.mp3",
+            "description": "A student artist on drawing her first superhero comic.",
+            "tags": [
+                "Superhero"
+            ],
+            "image": "https://images.unsplash.com/photo-1588497859490-85d1c17db96d?w=900&auto=format&fit=crop&q=80",
+            "date": "2026-03-30",
+            "popularity": 62,
+            "duration": "0:30",
+            "featured": false
+        },
+        {
+            "id": "aud-manga-1",
+            "category": "manga",
+            "title": "Manga Corner Ep. 3 - Where to Start Reading",
+            "audioType": "podcast",
+            "file": "Audio/manga-1.mp3",
+            "description": "Short series, long series and the best first manga for beginners.",
+            "tags": [
+                "Shonen"
+            ],
+            "image": "Images/banner 3.jfif",
+            "date": "2026-07-25",
+            "popularity": 75,
+            "duration": "0:29",
+            "featured": false
+        },
+        {
+            "id": "aud-manga-2",
+            "category": "manga",
+            "title": "Interview - A Manga Collector",
+            "audioType": "interview",
+            "file": "Audio/manga-2.mp3",
+            "description": "A fan with over 400 volumes talks about his collection.",
+            "tags": [
+                "Shonen",
+                "Mystery"
+            ],
+            "image": "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?w=900&auto=format&fit=crop&q=80",
+            "date": "2026-05-28",
+            "popularity": 66,
+            "duration": "0:28",
+            "featured": false
+        }
+    ],
+    "characters": [
+        {
+            "id": "char-tanjiro-kamado",
+            "category": "anime",
+            "name": "Tanjiro Kamado",
+            "series": "Demon Slayer",
+            "franchise": "Demon Slayer",
+            "image": "https://i.ytimg.com/vi/VQGCKyvzIM4/hq1.jpg",
+            "biography": "A kind-hearted boy who becomes a demon slayer after his family is attacked. He travels with his sister Nezuko, who was turned into a demon, and searches for a way to make her human again.",
+            "traits": [
+                "Kind",
+                "Brave",
+                "Hard working"
+            ],
+            "popularity": 97,
+            "tags": [
+                "Demon Slayer"
+            ]
+        },
+        {
+            "id": "char-nezuko-kamado",
+            "category": "anime",
+            "name": "Nezuko Kamado",
+            "series": "Demon Slayer",
+            "franchise": "Demon Slayer",
+            "image": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hq2.jpg",
+            "biography": "Tanjiro's younger sister who was turned into a demon but still protects humans. She sleeps a lot to regain strength and fights with powerful kicks and blood demon art.",
+            "traits": [
+                "Protective",
+                "Loyal",
+                "Strong"
+            ],
+            "popularity": 95,
+            "tags": [
+                "Demon Slayer"
+            ]
+        },
+        {
+            "id": "char-eren-yeager",
+            "category": "anime",
+            "name": "Eren Yeager",
+            "series": "Attack on Titan",
+            "franchise": "Attack on Titan",
+            "image": "https://i.ytimg.com/vi/M_OauHnAFc8/hq1.jpg",
+            "biography": "A boy who swore to destroy every Titan after his hometown was attacked. He later discovers he can turn into a Titan himself, which changes everything he believes.",
+            "traits": [
+                "Determined",
+                "Angry",
+                "Complex"
+            ],
+            "popularity": 93,
+            "tags": [
+                "Attack on Titan"
+            ]
+        },
+        {
+            "id": "char-levi-ackerman",
+            "category": "anime",
+            "name": "Levi Ackerman",
+            "series": "Attack on Titan",
+            "franchise": "Attack on Titan",
+            "image": "https://i.ytimg.com/vi/M_OauHnAFc8/hq2.jpg",
+            "biography": "Captain of the Survey Corps special operations squad and known as humanity's strongest soldier. Cold on the outside but deeply cares about his team.",
+            "traits": [
+                "Calm",
+                "Skilled",
+                "Clean freak"
+            ],
+            "popularity": 96,
+            "tags": [
+                "Attack on Titan"
+            ]
+        },
+        {
+            "id": "char-chihiro-ogino",
+            "category": "anime",
+            "name": "Chihiro Ogino",
+            "series": "Spirited Away",
+            "franchise": "Studio Ghibli",
+            "image": "https://i.ytimg.com/vi/ByXuk9QqQkk/hq1.jpg",
+            "biography": "A ten year old girl who gets trapped in the spirit world. She starts off scared and whiny but grows brave while working in a bathhouse to save her parents.",
+            "traits": [
+                "Brave",
+                "Honest",
+                "Growing"
+            ],
+            "popularity": 85,
+            "tags": [
+                "Studio Ghibli"
+            ]
+        },
+        {
+            "id": "char-kirito",
+            "category": "anime",
+            "name": "Kirito",
+            "series": "Sword Art Online",
+            "franchise": "Sword Art Online",
+            "image": "https://i.ytimg.com/vi/6ohYYtxfDCg/hq1.jpg",
+            "biography": "A solo gamer trapped inside the virtual world of Sword Art Online. He fights with two swords and tries to clear the game so all players can escape.",
+            "traits": [
+                "Loner",
+                "Skilled",
+                "Protective"
+            ],
+            "popularity": 80,
+            "tags": [
+                "Sword Art Online"
+            ]
+        },
+        {
+            "id": "char-geralt-of-rivia",
+            "category": "gaming",
+            "name": "Geralt of Rivia",
+            "series": "The Witcher 3",
+            "franchise": "The Witcher",
+            "image": "https://i.ytimg.com/vi/c0i88t0Kacs/hq1.jpg",
+            "biography": "A monster hunter with white hair, cat-like eyes and two swords - steel for humans, silver for monsters. He looks cold but always helps people in trouble.",
+            "traits": [
+                "Stoic",
+                "Sarcastic",
+                "Protective"
+            ],
+            "popularity": 95,
+            "tags": [
+                "The Witcher"
+            ]
+        },
+        {
+            "id": "char-arthur-morgan",
+            "category": "gaming",
+            "name": "Arthur Morgan",
+            "series": "Red Dead Redemption 2",
+            "franchise": "Red Dead",
+            "image": "https://i.ytimg.com/vi/gmA6MrX81z4/hq1.jpg",
+            "biography": "A senior member of the Van der Linde gang. As the Wild West comes to an end, Arthur starts questioning his loyalty and what kind of man he wants to be.",
+            "traits": [
+                "Loyal",
+                "Tough",
+                "Thoughtful"
+            ],
+            "popularity": 94,
+            "tags": [
+                "Red Dead"
+            ]
+        },
+        {
+            "id": "char-kratos",
+            "category": "gaming",
+            "name": "Kratos",
+            "series": "God of War",
+            "franchise": "God of War",
+            "image": "https://i.ytimg.com/vi/EE-4GvjKcfs/hq1.jpg",
+            "biography": "The former Greek god of war now lives in the Norse lands with his son Atreus. He is trying to control his anger and be a better father.",
+            "traits": [
+                "Powerful",
+                "Serious",
+                "Protective father"
+            ],
+            "popularity": 93,
+            "tags": [
+                "God of War"
+            ]
+        },
+        {
+            "id": "char-link",
+            "category": "gaming",
+            "name": "Link",
+            "series": "The Legend of Zelda",
+            "franchise": "Zelda",
+            "image": "https://i.ytimg.com/vi/uHGShqcAHlQ/hq1.jpg",
+            "biography": "The silent hero of Hyrule who always returns to fight evil and protect Princess Zelda. Known for his green tunic, Master Sword and love for exploring.",
+            "traits": [
+                "Silent",
+                "Courageous",
+                "Curious"
+            ],
+            "popularity": 90,
+            "tags": [
+                "Zelda"
+            ]
+        },
+        {
+            "id": "char-v",
+            "category": "gaming",
+            "name": "V",
+            "series": "Cyberpunk 2077",
+            "franchise": "Cyberpunk",
+            "image": "https://i.ytimg.com/vi/qIcTM8WXFjk/hq1.jpg",
+            "biography": "A mercenary in Night City who gets a digital ghost of rockstar Johnny Silverhand stuck in their head. Players decide V's look, background and choices.",
+            "traits": [
+                "Street smart",
+                "Ambitious",
+                "Customizable"
+            ],
+            "popularity": 82,
+            "tags": [
+                "Cyberpunk"
+            ]
+        },
+        {
+            "id": "char-lucia",
+            "category": "gaming",
+            "name": "Lucia",
+            "series": "Grand Theft Auto VI",
+            "franchise": "GTA",
+            "image": "https://i.ytimg.com/vi/QdBZY2fkU-0/hq1.jpg",
+            "biography": "One of the two main characters of GTA VI, shown in the first trailer. Along with her partner Jason, she gets pulled into crime in the state of Leonida.",
+            "traits": [
+                "Bold",
+                "Fearless",
+                "Mysterious"
+            ],
+            "popularity": 88,
+            "tags": [
+                "GTA"
+            ]
+        },
+        {
+            "id": "char-paul-atreides",
+            "category": "movies",
+            "name": "Paul Atreides",
+            "series": "Dune",
+            "franchise": "Dune",
+            "image": "https://i.ytimg.com/vi/Way9Dexny3w/hq1.jpg",
+            "biography": "Son of Duke Leto who moves to the desert planet Arrakis. After his family is betrayed, he joins the Fremen and becomes a leader many believe is a messiah.",
+            "traits": [
+                "Intelligent",
+                "Conflicted",
+                "Leader"
+            ],
+            "popularity": 92,
+            "tags": [
+                "Dune"
+            ]
+        },
+        {
+            "id": "char-cooper",
+            "category": "movies",
+            "name": "Cooper",
+            "series": "Interstellar",
+            "franchise": "Interstellar",
+            "image": "https://i.ytimg.com/vi/zSWdZVtXT7E/hq1.jpg",
+            "biography": "A former NASA pilot turned farmer who leaves his children behind to find a new home for humanity through a wormhole near Saturn.",
+            "traits": [
+                "Brave",
+                "Loving father",
+                "Explorer"
+            ],
+            "popularity": 90,
+            "tags": [
+                "Interstellar"
+            ]
+        },
+        {
+            "id": "char-tony-stark",
+            "category": "movies",
+            "name": "Tony Stark",
+            "series": "Avengers: Endgame",
+            "franchise": "Marvel Cinematic Universe",
+            "image": "https://i.ytimg.com/vi/TcMBFSGVi1c/hq1.jpg",
+            "biography": "Genius billionaire who built the Iron Man suit. His journey from selfish weapons maker to hero is the backbone of the Marvel movies.",
+            "traits": [
+                "Genius",
+                "Witty",
+                "Selfless"
+            ],
+            "popularity": 97,
+            "tags": [
+                "Marvel Cinematic Universe"
+            ]
+        },
+        {
+            "id": "char-harry-potter",
+            "category": "movies",
+            "name": "Harry Potter",
+            "series": "Harry Potter",
+            "franchise": "Wizarding World",
+            "image": "https://i.ytimg.com/vi/mObK5XD8udk/hq1.jpg",
+            "biography": "The boy who lived. Harry grows up at Hogwarts with Ron and Hermione and faces Lord Voldemort in the final battle.",
+            "traits": [
+                "Brave",
+                "Loyal",
+                "Stubborn"
+            ],
+            "popularity": 95,
+            "tags": [
+                "Wizarding World"
+            ]
+        },
+        {
+            "id": "char-dom-cobb",
+            "category": "movies",
+            "name": "Dom Cobb",
+            "series": "Inception",
+            "franchise": "Inception",
+            "image": "https://i.ytimg.com/vi/YoHD9XEInc0/hq1.jpg",
+            "biography": "A skilled thief who steals secrets from people's dreams. He takes one last job - planting an idea - so he can go home to his kids.",
+            "traits": [
+                "Clever",
+                "Haunted",
+                "Focused"
+            ],
+            "popularity": 86,
+            "tags": [
+                "Inception"
+            ]
+        },
+        {
+            "id": "char-jake-sully",
+            "category": "movies",
+            "name": "Jake Sully",
+            "series": "Avatar",
+            "franchise": "Avatar",
+            "image": "https://i.ytimg.com/vi/d9MyW72ELq0/hq1.jpg",
+            "biography": "A former marine who joined the Na'vi of Pandora. In The Way of Water he must protect his family and move to the ocean clans.",
+            "traits": [
+                "Protective",
+                "Brave",
+                "Family man"
+            ],
+            "popularity": 80,
+            "tags": [
+                "Avatar"
+            ]
+        },
+        {
+            "id": "char-eleven",
+            "category": "tv",
+            "name": "Eleven",
+            "series": "Stranger Things",
+            "franchise": "Stranger Things",
+            "image": "https://i.ytimg.com/vi/b9EkMc79ZSU/hq1.jpg",
+            "biography": "A girl with psychic powers who escaped from Hawkins Lab. She loves Eggos, her friends and her adopted dad Hopper.",
+            "traits": [
+                "Powerful",
+                "Loyal",
+                "Quiet"
+            ],
+            "popularity": 96,
+            "tags": [
+                "Stranger Things"
+            ]
+        },
+        {
+            "id": "char-wednesday-addams",
+            "category": "tv",
+            "name": "Wednesday Addams",
+            "series": "Wednesday",
+            "franchise": "The Addams Family",
+            "image": "https://i.ytimg.com/vi/Di310WS8zLk/hq1.jpg",
+            "biography": "A sharp and dark-humoured student at Nevermore Academy who investigates a string of murders while trying to control her psychic visions.",
+            "traits": [
+                "Sarcastic",
+                "Smart",
+                "Independent"
+            ],
+            "popularity": 93,
+            "tags": [
+                "The Addams Family"
+            ]
+        },
+        {
+            "id": "char-jon-snow",
+            "category": "tv",
+            "name": "Jon Snow",
+            "series": "Game of Thrones",
+            "franchise": "A Song of Ice and Fire",
+            "image": "https://i.ytimg.com/vi/rlR4PJn8b8I/hq1.jpg",
+            "biography": "Raised as the bastard son of Ned Stark, Jon joins the Night's Watch and becomes a leader in the war against the White Walkers.",
+            "traits": [
+                "Honourable",
+                "Brave",
+                "Humble"
+            ],
+            "popularity": 94,
+            "tags": [
+                "A Song of Ice and Fire"
+            ]
+        },
+        {
+            "id": "char-daenerys-targaryen",
+            "category": "tv",
+            "name": "Daenerys Targaryen",
+            "series": "Game of Thrones",
+            "franchise": "A Song of Ice and Fire",
+            "image": "https://i.ytimg.com/vi/rlR4PJn8b8I/hq2.jpg",
+            "biography": "The Mother of Dragons who wants to take back the Iron Throne. Her journey is one of the most talked about in TV history.",
+            "traits": [
+                "Ambitious",
+                "Fierce",
+                "Determined"
+            ],
+            "popularity": 92,
+            "tags": [
+                "A Song of Ice and Fire"
+            ]
+        },
+        {
+            "id": "char-walter-white",
+            "category": "tv",
+            "name": "Walter White",
+            "series": "Breaking Bad",
+            "franchise": "Breaking Bad",
+            "image": "https://i.ytimg.com/vi/HhesaQXLuRY/hq1.jpg",
+            "biography": "A chemistry teacher who turns to crime and becomes the feared 'Heisenberg'. A classic example of a hero turning into a villain.",
+            "traits": [
+                "Genius",
+                "Proud",
+                "Dangerous"
+            ],
+            "popularity": 95,
+            "tags": [
+                "Breaking Bad"
+            ]
+        },
+        {
+            "id": "char-joel-miller",
+            "category": "tv",
+            "name": "Joel Miller",
+            "series": "The Last of Us",
+            "franchise": "The Last of Us",
+            "image": "https://i.ytimg.com/vi/uLtkt8BonwM/hq1.jpg",
+            "biography": "A tough survivor who is hired to smuggle a teenager named Ellie across a ruined America. Slowly she becomes like a daughter to him.",
+            "traits": [
+                "Tough",
+                "Protective",
+                "Grieving"
+            ],
+            "popularity": 90,
+            "tags": [
+                "The Last of Us"
+            ]
+        },
+        {
+            "id": "char-rm",
+            "category": "kpop",
+            "name": "RM",
+            "series": "BTS",
+            "franchise": "BTS",
+            "image": "https://i.ytimg.com/vi/gdZLi9oWNZg/hq1.jpg",
+            "biography": "Leader and main rapper of BTS. Known for his English speeches, his love for art and nature, and his work as a songwriter and producer.",
+            "traits": [
+                "Leader",
+                "Thoughtful",
+                "Creative"
+            ],
+            "popularity": 92,
+            "tags": [
+                "BTS"
+            ]
+        },
+        {
+            "id": "char-jungkook",
+            "category": "kpop",
+            "name": "Jungkook",
+            "series": "BTS",
+            "franchise": "BTS",
+            "image": "https://i.ytimg.com/vi/WMweEpGlu_U/hq1.jpg",
+            "biography": "The youngest member of BTS and a main vocalist. Also known for strong dancing and solo hits like 'Seven'.",
+            "traits": [
+                "Talented",
+                "Hard working",
+                "All-rounder"
+            ],
+            "popularity": 97,
+            "tags": [
+                "BTS"
+            ]
+        },
+        {
+            "id": "char-jennie",
+            "category": "kpop",
+            "name": "Jennie",
+            "series": "BLACKPINK",
+            "franchise": "BLACKPINK",
+            "image": "https://i.ytimg.com/vi/IHNzOHi8sJs/hq1.jpg",
+            "biography": "Rapper and vocalist of BLACKPINK. She was the first member to go solo with the song 'SOLO' in 2018 and is a big fashion icon.",
+            "traits": [
+                "Charismatic",
+                "Stylish",
+                "Confident"
+            ],
+            "popularity": 95,
+            "tags": [
+                "BLACKPINK"
+            ]
+        },
+        {
+            "id": "char-lisa",
+            "category": "kpop",
+            "name": "Lisa",
+            "series": "BLACKPINK",
+            "franchise": "BLACKPINK",
+            "image": "https://i.ytimg.com/vi/ioNng23DkIM/hq1.jpg",
+            "biography": "Main dancer and rapper of BLACKPINK, originally from Thailand. Her solo song 'Money' became a huge dance challenge.",
+            "traits": [
+                "Energetic",
+                "Funny",
+                "Great dancer"
+            ],
+            "popularity": 96,
+            "tags": [
+                "BLACKPINK"
+            ]
+        },
+        {
+            "id": "char-nayeon",
+            "category": "kpop",
+            "name": "Nayeon",
+            "series": "TWICE",
+            "franchise": "TWICE",
+            "image": "https://i.ytimg.com/vi/ePpPVE-GGJw/hq1.jpg",
+            "biography": "Lead vocalist of TWICE and the first member to debut solo with the bright summer song 'POP!'.",
+            "traits": [
+                "Cheerful",
+                "Bright",
+                "Playful"
+            ],
+            "popularity": 85,
+            "tags": [
+                "TWICE"
+            ]
+        },
+        {
+            "id": "char-bang-chan",
+            "category": "kpop",
+            "name": "Bang Chan",
+            "series": "Stray Kids",
+            "franchise": "Stray Kids",
+            "image": "https://i.ytimg.com/vi/TQTlCHxyuu8/hq1.jpg",
+            "biography": "Leader of Stray Kids and part of the producing team 3RACHA. Fans love his late night live streams where he chats with them.",
+            "traits": [
+                "Caring",
+                "Producer",
+                "Leader"
+            ],
+            "popularity": 86,
+            "tags": [
+                "Stray Kids"
+            ]
+        },
+        {
+            "id": "char-peter-parker-/-spider-man",
+            "category": "comics",
+            "name": "Peter Parker / Spider-Man",
+            "series": "Spider-Man",
+            "franchise": "Marvel",
+            "image": "https://i.ytimg.com/vi/JfVOs4VSpmA/hq1.jpg",
+            "biography": "A teenager from Queens bitten by a radioactive spider. With great power comes great responsibility - he tries to balance school, friends and saving the city.",
+            "traits": [
+                "Witty",
+                "Responsible",
+                "Agile"
+            ],
+            "popularity": 98,
+            "tags": [
+                "Marvel"
+            ]
+        },
+        {
+            "id": "char-miles-morales",
+            "category": "comics",
+            "name": "Miles Morales",
+            "series": "Spider-Verse",
+            "franchise": "Marvel",
+            "image": "https://i.ytimg.com/vi/shW9i6k8cB0/hq1.jpg",
+            "biography": "A Brooklyn teen who becomes Spider-Man in his own universe. He has venom blasts and camouflage powers that Peter doesn't have.",
+            "traits": [
+                "Creative",
+                "Brave",
+                "Unsure of himself"
+            ],
+            "popularity": 94,
+            "tags": [
+                "Marvel"
+            ]
+        },
+        {
+            "id": "char-batman",
+            "category": "comics",
+            "name": "Batman",
+            "series": "The Batman",
+            "franchise": "DC",
+            "image": "https://i.ytimg.com/vi/mqqft2x_Aa4/hq1.jpg",
+            "biography": "Bruce Wayne watched his parents die and swore to fight crime in Gotham. He has no superpowers, just training, gadgets and detective skills.",
+            "traits": [
+                "Detective",
+                "Relentless",
+                "Dark"
+            ],
+            "popularity": 97,
+            "tags": [
+                "DC"
+            ]
+        },
+        {
+            "id": "char-the-joker",
+            "category": "comics",
+            "name": "The Joker",
+            "series": "Joker",
+            "franchise": "DC",
+            "image": "https://i.ytimg.com/vi/zAGVQLHvwOY/hq1.jpg",
+            "biography": "Batman's most famous enemy. A chaotic criminal who treats crime as a joke and loves to prove that anyone can break.",
+            "traits": [
+                "Chaotic",
+                "Unpredictable",
+                "Dangerous"
+            ],
+            "popularity": 93,
+            "tags": [
+                "DC"
+            ]
+        },
+        {
+            "id": "char-superman",
+            "category": "comics",
+            "name": "Superman",
+            "series": "Superman",
+            "franchise": "DC",
+            "image": "https://i.ytimg.com/vi/Ox8ZLF6cGM0/hq1.jpg",
+            "biography": "Clark Kent was sent to Earth from the dying planet Krypton. He can fly, has super strength and always tries to do the right thing.",
+            "traits": [
+                "Hopeful",
+                "Kind",
+                "Powerful"
+            ],
+            "popularity": 91,
+            "tags": [
+                "DC"
+            ]
+        },
+        {
+            "id": "char-deadpool",
+            "category": "comics",
+            "name": "Deadpool",
+            "series": "Deadpool & Wolverine",
+            "franchise": "Marvel",
+            "image": "https://i.ytimg.com/vi/73_1biulkYk/hq1.jpg",
+            "biography": "Wade Wilson is a mercenary with a healing factor and a big mouth. He breaks the fourth wall and talks directly to the readers.",
+            "traits": [
+                "Funny",
+                "Chaotic",
+                "Unkillable"
+            ],
+            "popularity": 92,
+            "tags": [
+                "Marvel"
+            ]
+        },
+        {
+            "id": "char-monkey-d-luffy",
+            "category": "manga",
+            "name": "Monkey D. Luffy",
+            "series": "One Piece",
+            "franchise": "One Piece",
+            "image": "https://i.ytimg.com/vi/Ades3pQbeh8/hq1.jpg",
+            "biography": "Captain of the Straw Hat Pirates. After eating the Gum-Gum Fruit his body stretches like rubber. His dream is to become King of the Pirates.",
+            "traits": [
+                "Fearless",
+                "Loyal",
+                "Always hungry"
+            ],
+            "popularity": 98,
+            "tags": [
+                "One Piece"
+            ]
+        },
+        {
+            "id": "char-light-yagami",
+            "category": "manga",
+            "name": "Light Yagami",
+            "series": "Death Note",
+            "franchise": "Death Note",
+            "image": "https://i.ytimg.com/vi/NlJZ-YgAt-c/hq1.jpg",
+            "biography": "A top student who finds the Death Note and decides to 'clean' the world of criminals, calling himself Kira.",
+            "traits": [
+                "Genius",
+                "Proud",
+                "Manipulative"
+            ],
+            "popularity": 94,
+            "tags": [
+                "Death Note"
+            ]
+        },
+        {
+            "id": "char-l",
+            "category": "manga",
+            "name": "L",
+            "series": "Death Note",
+            "franchise": "Death Note",
+            "image": "https://i.ytimg.com/vi/NlJZ-YgAt-c/hq2.jpg",
+            "biography": "The world's greatest detective who sits in strange ways and eats a lot of sweets. He is the only one who can match Light's mind.",
+            "traits": [
+                "Genius",
+                "Odd",
+                "Patient"
+            ],
+            "popularity": 95,
+            "tags": [
+                "Death Note"
+            ]
+        },
+        {
+            "id": "char-denji",
+            "category": "manga",
+            "name": "Denji",
+            "series": "Chainsaw Man",
+            "franchise": "Chainsaw Man",
+            "image": "https://i.ytimg.com/vi/q15CRdE5Bv0/hq1.jpg",
+            "biography": "A poor young man who merges with his chainsaw devil dog Pochita. He becomes a devil hunter mostly because he wants a normal life and good food.",
+            "traits": [
+                "Simple",
+                "Reckless",
+                "Loyal"
+            ],
+            "popularity": 90,
+            "tags": [
+                "Chainsaw Man"
+            ]
+        },
+        {
+            "id": "char-yuji-itadori",
+            "category": "manga",
+            "name": "Yuji Itadori",
+            "series": "Jujutsu Kaisen",
+            "franchise": "Jujutsu Kaisen",
+            "image": "https://i.ytimg.com/vi/pkKu9hLT-t8/hq1.jpg",
+            "biography": "A high school student with crazy strength who eats a cursed finger and becomes the host of Sukuna, the King of Curses.",
+            "traits": [
+                "Kind",
+                "Strong",
+                "Selfless"
+            ],
+            "popularity": 92,
+            "tags": [
+                "Jujutsu Kaisen"
+            ]
+        },
+        {
+            "id": "char-anya-forger",
+            "category": "manga",
+            "name": "Anya Forger",
+            "series": "Spy x Family",
+            "franchise": "Spy x Family",
+            "image": "https://i.ytimg.com/vi/ofXigq9aIpo/hq1.jpg",
+            "biography": "A little girl who can read minds. She is adopted by a spy and an assassin and loves peanuts and spy cartoons.",
+            "traits": [
+                "Cute",
+                "Funny",
+                "Telepathic"
+            ],
+            "popularity": 93,
+            "tags": [
+                "Spy x Family"
+            ]
+        },
+        {
+            "id": "char-naruto-uzumaki",
+            "category": "manga",
+            "name": "Naruto Uzumaki",
+            "series": "Naruto",
+            "franchise": "Naruto",
+            "image": "Images/banner 3.jfif",
+            "biography": "A loud ninja with the Nine-Tailed Fox sealed inside him. Nobody believed in him at first, but he never gave up on his dream of becoming Hokage.",
+            "traits": [
+                "Determined",
+                "Cheerful",
+                "Never gives up"
+            ],
+            "popularity": 96,
+            "tags": [
+                "Naruto"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "id": "evt-karachi-anime-fest-2026",
+            "category": "anime",
+            "title": "Karachi Anime Fest 2026",
+            "date": "2026-11-14",
+            "location": "Expo Centre, Karachi",
+            "description": "Cosplay contest, anime art stalls, J-Pop live music and a big quiz round. Bring your best cosplay!",
+            "eventType": "Convention",
+            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=900&auto=format&fit=crop&q=80",
+            "popularity": 92,
+            "tags": [
+                "Convention"
+            ]
+        },
+        {
+            "id": "evt-demon-slayer-watch-party",
+            "category": "anime",
+            "title": "Demon Slayer Watch Party",
+            "date": "2026-08-09",
+            "location": "Cinepax, Lahore",
+            "description": "Fans watched the Swordsmith Village finale together on the big screen. Free posters for the first 50 people.",
+            "eventType": "Watch Party",
+            "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=900&auto=format&fit=crop&q=80",
+            "popularity": 80,
+            "tags": [
+                "Watch Party"
+            ]
+        },
+        {
+            "id": "evt-studio-ghibli-night",
+            "category": "anime",
+            "title": "Studio Ghibli Night",
+            "date": "2026-12-05",
+            "location": "F-9 Park Amphitheatre, Islamabad",
+            "description": "Outdoor screening of Spirited Away with food stalls and a drawing corner for kids.",
+            "eventType": "Screening",
+            "image": "https://i.ytimg.com/vi/ByXuk9QqQkk/hq2.jpg",
+            "popularity": 76,
+            "tags": [
+                "Screening"
+            ]
+        },
+        {
+            "id": "evt-pakistan-esports-championship",
+            "category": "gaming",
+            "title": "Pakistan eSports Championship",
+            "date": "2026-10-24",
+            "location": "Arfa Tower, Lahore",
+            "description": "Tekken, Valorant and EA FC tournaments with cash prizes for the top teams.",
+            "eventType": "Tournament",
+            "image": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?w=900&auto=format&fit=crop&q=80",
+            "popularity": 94,
+            "tags": [
+                "Tournament"
+            ]
+        },
+        {
+            "id": "evt-retro-gaming-meetup",
+            "category": "gaming",
+            "title": "Retro Gaming Meetup",
+            "date": "2026-07-12",
+            "location": "Dolmen Mall Clifton, Karachi",
+            "description": "Old consoles, arcade machines and a Street Fighter II bracket. Great fun for all ages.",
+            "eventType": "Meetup",
+            "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=900&auto=format&fit=crop&q=80",
+            "popularity": 70,
+            "tags": [
+                "Meetup"
+            ]
+        },
+        {
+            "id": "evt-gta-vi-launch-night",
+            "category": "gaming",
+            "title": "GTA VI Launch Night",
+            "date": "2026-11-19",
+            "location": "Gaming Lounge, Karachi",
+            "description": "Midnight launch party with giveaways, big screens and snacks. Please check the release date again before coming.",
+            "eventType": "Launch Party",
+            "image": "https://i.ytimg.com/vi/QdBZY2fkU-0/hq2.jpg",
+            "popularity": 90,
+            "tags": [
+                "Launch Party"
+            ]
+        },
+        {
+            "id": "evt-christopher-nolan-marathon",
+            "category": "movies",
+            "title": "Christopher Nolan Marathon",
+            "date": "2026-06-20",
+            "location": "Nueplex Cinemas, Karachi",
+            "description": "Back to back screenings of Inception, Interstellar and The Dark Knight. Coffee was definitely needed.",
+            "eventType": "Marathon",
+            "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=900&auto=format&fit=crop&q=80",
+            "popularity": 85,
+            "tags": [
+                "Marathon"
+            ]
+        },
+        {
+            "id": "evt-avengers-fan-screening",
+            "category": "movies",
+            "title": "Avengers Fan Screening",
+            "date": "2026-12-19",
+            "location": "Cinepax Packages Mall, Lahore",
+            "description": "Group screening for Marvel fans with cosplay and a trivia contest before the show.",
+            "eventType": "Screening",
+            "image": "https://i.ytimg.com/vi/TcMBFSGVi1c/hq2.jpg",
+            "popularity": 88,
+            "tags": [
+                "Screening"
+            ]
+        },
+        {
+            "id": "evt-sci-fi-film-club",
+            "category": "movies",
+            "title": "Sci-Fi Film Club",
+            "date": "2026-10-10",
+            "location": "Centaurus Mall, Islamabad",
+            "description": "Monthly movie club. This month: Dune and Dune: Part Two followed by an open discussion.",
+            "eventType": "Meetup",
+            "image": "https://i.ytimg.com/vi/Way9Dexny3w/hq2.jpg",
+            "popularity": 72,
+            "tags": [
+                "Meetup"
+            ]
+        },
+        {
+            "id": "evt-stranger-things-finale-party",
+            "category": "tv",
+            "title": "Stranger Things Finale Party",
+            "date": "2026-01-01",
+            "location": "Community Hall, Karachi",
+            "description": "Fans dressed up in 80s outfits and watched the final episodes together.",
+            "eventType": "Watch Party",
+            "image": "https://i.ytimg.com/vi/b9EkMc79ZSU/hq2.jpg",
+            "popularity": 84,
+            "tags": [
+                "Watch Party"
+            ]
+        },
+        {
+            "id": "evt-tv-trivia-night",
+            "category": "tv",
+            "title": "TV Trivia Night",
+            "date": "2026-10-17",
+            "location": "Chaaye Khana, Islamabad",
+            "description": "Teams of four answer questions on Breaking Bad, Game of Thrones, Squid Game and more.",
+            "eventType": "Quiz",
+            "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=900&auto=format&fit=crop&q=80",
+            "popularity": 74,
+            "tags": [
+                "Quiz"
+            ]
+        },
+        {
+            "id": "evt-house-of-the-dragon-discussion",
+            "category": "tv",
+            "title": "House of the Dragon Discussion",
+            "date": "2026-07-25",
+            "location": "Online (Discord)",
+            "description": "Voice chat and theories after the season finale. Spoilers allowed!",
+            "eventType": "Online",
+            "image": "https://i.ytimg.com/vi/DotnJ7tTA34/hq2.jpg",
+            "popularity": 68,
+            "tags": [
+                "Online"
+            ]
+        },
+        {
+            "id": "evt-k-pop-dance-cover-contest",
+            "category": "kpop",
+            "title": "K-Pop Dance Cover Contest",
+            "date": "2026-11-07",
+            "location": "Centaurus Mall, Islamabad",
+            "description": "Solo and group dance cover competition. Judges pick the best choreography and stage presence.",
+            "eventType": "Competition",
+            "image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=900&auto=format&fit=crop&q=80",
+            "popularity": 91,
+            "tags": [
+                "Competition"
+            ]
+        },
+        {
+            "id": "evt-random-play-dance",
+            "category": "kpop",
+            "title": "Random Play Dance",
+            "date": "2026-08-16",
+            "location": "Sea View, Karachi",
+            "description": "Songs play randomly and everyone who knows the dance jumps in. Around 200 fans joined!",
+            "eventType": "Meetup",
+            "image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=900&auto=format&fit=crop&q=80",
+            "popularity": 83,
+            "tags": [
+                "Meetup"
+            ]
+        },
+        {
+            "id": "evt-k-pop-listening-party",
+            "category": "kpop",
+            "title": "K-Pop Listening Party",
+            "date": "2026-10-31",
+            "location": "Coffee Wagera, Lahore",
+            "description": "Listen to new comebacks together, trade photocards and make friends.",
+            "eventType": "Meetup",
+            "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=900&auto=format&fit=crop&q=80",
+            "popularity": 70,
+            "tags": [
+                "Meetup"
+            ]
+        },
+        {
+            "id": "evt-free-comic-book-day-karachi",
+            "category": "comics",
+            "title": "Free Comic Book Day Karachi",
+            "date": "2026-05-02",
+            "location": "Liberty Books, Karachi",
+            "description": "Free comics for everyone, plus a sketching table with local artists.",
+            "eventType": "Store Event",
+            "image": "https://images.unsplash.com/photo-1588497859490-85d1c17db96d?w=900&auto=format&fit=crop&q=80",
+            "popularity": 78,
+            "tags": [
+                "Store Event"
+            ]
+        },
+        {
+            "id": "evt-comic-art-workshop",
+            "category": "comics",
+            "title": "Comic Art Workshop",
+            "date": "2026-10-25",
+            "location": "NCA, Lahore",
+            "description": "Learn panels, inking and speech bubbles in this 3 hour beginner workshop.",
+            "eventType": "Workshop",
+            "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=900&auto=format&fit=crop&q=80",
+            "popularity": 73,
+            "tags": [
+                "Workshop"
+            ]
+        },
+        {
+            "id": "evt-superhero-cosplay-meetup",
+            "category": "comics",
+            "title": "Superhero Cosplay Meetup",
+            "date": "2026-12-12",
+            "location": "Frere Hall, Karachi",
+            "description": "Photo shoot and meetup for Marvel and DC cosplayers. Everyone is welcome.",
+            "eventType": "Meetup",
+            "image": "https://i.ytimg.com/vi/shW9i6k8cB0/hq2.jpg",
+            "popularity": 80,
+            "tags": [
+                "Meetup"
+            ]
+        },
+        {
+            "id": "evt-manga-swap-day",
+            "category": "manga",
+            "title": "Manga Swap Day",
+            "date": "2026-06-14",
+            "location": "Dolmen Mall Hyderi, Karachi",
+            "description": "Bring manga you've finished and swap them for new ones. Over 300 volumes changed hands.",
+            "eventType": "Meetup",
+            "image": "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?w=900&auto=format&fit=crop&q=80",
+            "popularity": 72,
+            "tags": [
+                "Meetup"
+            ]
+        },
+        {
+            "id": "evt-manga-drawing-workshop",
+            "category": "manga",
+            "title": "Manga Drawing Workshop",
+            "date": "2026-11-21",
+            "location": "Islamabad Art Gallery, Islamabad",
+            "description": "Learn to draw manga eyes, hair and action poses with a local artist.",
+            "eventType": "Workshop",
+            "image": "Images/banner 1.jfif",
+            "popularity": 76,
+            "tags": [
+                "Workshop"
+            ]
+        },
+        {
+            "id": "evt-one-piece-theory-night",
+            "category": "manga",
+            "title": "One Piece Theory Night",
+            "date": "2026-10-03",
+            "location": "Online (Discord)",
+            "description": "Discussing the latest chapters and the biggest mysteries of the Grand Line.",
+            "eventType": "Online",
+            "image": "https://i.ytimg.com/vi/Ades3pQbeh8/hq2.jpg",
+            "popularity": 79,
+            "tags": [
+                "Online"
+            ]
+        }
+    ],
+    "merchandise": [
+        {
+            "id": "merch-anime-1",
+            "category": "anime",
+            "name": "Anime T-Shirt",
+            "image": "Images/merch/anime-tshirt.svg",
+            "priceMin": 1500,
+            "priceMax": 2500,
+            "description": "Soft cotton tee with a slayer-style wave print.",
+            "details": [
+                "100% cotton",
+                "Sizes S to XL",
+                "Machine washable"
+            ],
+            "popularity": 90,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-anime-2",
+            "category": "anime",
+            "name": "Demon Hunter Hoodie",
+            "image": "Images/merch/anime-hoodie.svg",
+            "priceMin": 3500,
+            "priceMax": 5000,
+            "description": "Warm hoodie with a checkered pattern sleeve design.",
+            "details": [
+                "Fleece inside",
+                "Sizes M to XXL",
+                "Front pocket"
+            ],
+            "popularity": 85,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-gaming-1",
+            "category": "gaming",
+            "name": "Gaming Cap",
+            "image": "Images/merch/gaming-cap.svg",
+            "priceMin": 1000,
+            "priceMax": 1800,
+            "description": "A stylish cap for gaming fans with a controller logo.",
+            "details": [
+                "Adjustable strap",
+                "One size",
+                "Embroidered logo"
+            ],
+            "popularity": 80,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-gaming-2",
+            "category": "gaming",
+            "name": "RGB Mouse Pad XL",
+            "image": "Images/merch/gaming-mousepad.svg",
+            "priceMin": 2200,
+            "priceMax": 3200,
+            "description": "Extra large mouse pad with glowing RGB edges.",
+            "details": [
+                "80 x 30 cm",
+                "USB powered",
+                "Anti-slip base"
+            ],
+            "popularity": 88,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-movies-1",
+            "category": "movies",
+            "name": "Sci-Fi Movie Poster Set",
+            "image": "Images/merch/movies-poster.svg",
+            "priceMin": 1200,
+            "priceMax": 2000,
+            "description": "Set of three minimalist posters inspired by space movies.",
+            "details": [
+                "A3 size",
+                "Matte paper",
+                "Set of 3"
+            ],
+            "popularity": 75,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-movies-2",
+            "category": "movies",
+            "name": "Popcorn Night Mug",
+            "image": "Images/merch/movies-mug.svg",
+            "priceMin": 900,
+            "priceMax": 1400,
+            "description": "Big ceramic mug for your movie marathons.",
+            "details": [
+                "350 ml",
+                "Microwave safe",
+                "Printed both sides"
+            ],
+            "popularity": 70,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-tv-1",
+            "category": "tv",
+            "name": "Retro 80s Club T-Shirt",
+            "image": "Images/merch/tv-tshirt.svg",
+            "priceMin": 1600,
+            "priceMax": 2600,
+            "description": "Vintage style tee for fans of 80s mystery shows.",
+            "details": [
+                "Cotton blend",
+                "Sizes S to XL",
+                "Vintage wash"
+            ],
+            "popularity": 82,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-tv-2",
+            "category": "tv",
+            "name": "Dragon Sigil Mug",
+            "image": "Images/merch/tv-mug.svg",
+            "priceMin": 1000,
+            "priceMax": 1500,
+            "description": "Black mug with a golden dragon design.",
+            "details": [
+                "330 ml",
+                "Gold print",
+                "Gift box"
+            ],
+            "popularity": 74,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-kpop-1",
+            "category": "kpop",
+            "name": "Lightstick Keychain",
+            "image": "Images/merch/kpop-keychain.svg",
+            "priceMin": 600,
+            "priceMax": 1200,
+            "description": "Mini glowing lightstick keychain in pastel colours.",
+            "details": [
+                "LED light",
+                "Battery included",
+                "Clip hook"
+            ],
+            "popularity": 86,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-kpop-2",
+            "category": "kpop",
+            "name": "Photocard Binder",
+            "image": "Images/merch/kpop-binder.svg",
+            "priceMin": 1400,
+            "priceMax": 2200,
+            "description": "A5 binder with 20 sleeves to keep your photocards safe.",
+            "details": [
+                "A5 size",
+                "20 sleeves",
+                "Holds 80 cards"
+            ],
+            "popularity": 84,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-comics-1",
+            "category": "comics",
+            "name": "Superhero Comic Poster",
+            "image": "Images/merch/comics-poster.svg",
+            "priceMin": 800,
+            "priceMax": 1500,
+            "description": "Bold pop-art poster with a 'POW!' comic panel.",
+            "details": [
+                "A2 size",
+                "Glossy paper",
+                "Rolled in tube"
+            ],
+            "popularity": 77,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-comics-2",
+            "category": "comics",
+            "name": "Web Pattern Cap",
+            "image": "Images/merch/comics-cap.svg",
+            "priceMin": 1100,
+            "priceMax": 1800,
+            "description": "Red cap with a spider web pattern.",
+            "details": [
+                "Adjustable",
+                "Cotton",
+                "One size"
+            ],
+            "popularity": 79,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-manga-1",
+            "category": "manga",
+            "name": "Manga Poster",
+            "image": "Images/merch/manga-poster.svg",
+            "priceMin": 800,
+            "priceMax": 1500,
+            "description": "Decorative black and white manga panel poster.",
+            "details": [
+                "A3 size",
+                "Matte paper",
+                "Black and white"
+            ],
+            "popularity": 72,
+            "tags": [
+                "Merchandise"
+            ]
+        },
+        {
+            "id": "merch-manga-2",
+            "category": "manga",
+            "name": "Manga Panel Tote Bag",
+            "image": "Images/merch/manga-tote.svg",
+            "priceMin": 1200,
+            "priceMax": 1900,
+            "description": "Canvas tote bag with a comic panel print, perfect for carrying volumes.",
+            "details": [
+                "Canvas",
+                "38 x 42 cm",
+                "Inner pocket"
+            ],
+            "popularity": 76,
+            "tags": [
+                "Merchandise"
+            ]
+        }
+    ],
+    "releases": [
+        {
+            "dateText": "January 2027",
+            "id": "rel-winter-2027-anime-season",
+            "category": "anime",
+            "title": "Winter 2027 Anime Season",
+            "date": "2027-01-05",
+            "status": "upcoming",
+            "description": "The new winter season lineup starts in January. We'll post our watch list here.",
+            "image": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hq3.jpg",
+            "popularity": 80,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "September 2025",
+            "id": "rel-demon-slayer-infinity-castle-(part-1)",
+            "category": "anime",
+            "title": "Demon Slayer: Infinity Castle (Part 1)",
+            "date": "2025-09-12",
+            "status": "released",
+            "description": "The first movie of the Infinity Castle trilogy became a massive box office hit.",
+            "image": "https://i.ytimg.com/vi/x7uLutVRBfI/hq2.jpg",
+            "popularity": 95,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "19 November 2026",
+            "id": "rel-grand-theft-auto-vi",
+            "category": "gaming",
+            "title": "Grand Theft Auto VI",
+            "date": "2026-11-19",
+            "status": "upcoming",
+            "description": "Rockstar's next open world game set in Leonida. Date as announced by Rockstar, it may still change.",
+            "image": "https://i.ytimg.com/vi/QdBZY2fkU-0/hq3.jpg",
+            "popularity": 99,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "February 2026",
+            "id": "rel-resident-evil-requiem",
+            "category": "gaming",
+            "title": "Resident Evil Requiem",
+            "date": "2026-02-27",
+            "status": "released",
+            "description": "The newest Resident Evil game is out now.",
+            "image": "https://i.ytimg.com/vi/9lrThxCoznw/hq2.jpg",
+            "popularity": 84,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "18 December 2026",
+            "id": "rel-avengers-doomsday",
+            "category": "movies",
+            "title": "Avengers: Doomsday",
+            "date": "2026-12-18",
+            "status": "upcoming",
+            "description": "The next big Avengers team-up, with Doctor Doom as the villain.",
+            "image": "https://i.ytimg.com/vi/irVNGjRFZGk/hq2.jpg",
+            "popularity": 97,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "December 2026",
+            "id": "rel-dune-part-three",
+            "category": "movies",
+            "title": "Dune: Part Three",
+            "date": "2026-12-18",
+            "status": "upcoming",
+            "description": "Denis Villeneuve's continuation of Paul Atreides' story.",
+            "image": "https://i.ytimg.com/vi/NdvqHc56lE0/hq2.jpg",
+            "popularity": 92,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "June 2026",
+            "id": "rel-house-of-the-dragon-season-3",
+            "category": "tv",
+            "title": "House of the Dragon Season 3",
+            "date": "2026-06-21",
+            "status": "released",
+            "description": "The Dance of the Dragons continues with bigger battles.",
+            "image": "https://i.ytimg.com/vi/0JlMjgqduVw/hq2.jpg",
+            "popularity": 88,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "January 2027",
+            "id": "rel-winter-tv-premieres-2027",
+            "category": "tv",
+            "title": "Winter TV Premieres 2027",
+            "date": "2027-01-15",
+            "status": "upcoming",
+            "description": "Our roundup of the new and returning shows starting in the new year.",
+            "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=900&auto=format&fit=crop&q=80",
+            "popularity": 70,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "Late November 2026",
+            "id": "rel-year-end-music-awards-season",
+            "category": "kpop",
+            "title": "Year-End Music Awards Season",
+            "date": "2026-11-28",
+            "status": "upcoming",
+            "description": "Award shows, special stages and collabs at the end of the year.",
+            "image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=900&auto=format&fit=crop&q=80",
+            "popularity": 82,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "December 2026",
+            "id": "rel-winter-comeback-season",
+            "category": "kpop",
+            "title": "Winter Comeback Season",
+            "date": "2026-12-01",
+            "status": "upcoming",
+            "description": "Many groups plan winter comebacks. We'll update this list as teasers drop.",
+            "image": "https://i.ytimg.com/vi/gdZLi9oWNZg/hq3.jpg",
+            "popularity": 78,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "31 July 2026",
+            "id": "rel-spider-man-brand-new-day",
+            "category": "comics",
+            "title": "Spider-Man: Brand New Day",
+            "date": "2026-07-31",
+            "status": "released",
+            "description": "Tom Holland returns as Spider-Man in a fresh start for Peter Parker.",
+            "image": "https://i.ytimg.com/vi/62bIsvRcPv0/hq2.jpg",
+            "popularity": 94,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "June 2026",
+            "id": "rel-supergirl",
+            "category": "comics",
+            "title": "Supergirl",
+            "date": "2026-06-26",
+            "status": "released",
+            "description": "Kara Zor-El's first solo movie in the new DC Universe.",
+            "image": "https://i.ytimg.com/vi/s1-pfiVMKAs/hq2.jpg",
+            "popularity": 85,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "March 2026",
+            "id": "rel-one-piece-live-action-season-2",
+            "category": "manga",
+            "title": "One Piece Live Action Season 2",
+            "date": "2026-03-10",
+            "status": "released",
+            "description": "The Straw Hats head to the Grand Line in the second season.",
+            "image": "https://i.ytimg.com/vi/S-XxKVxZ2fU/hq2.jpg",
+            "popularity": 89,
+            "tags": [
+                "Release"
+            ]
+        },
+        {
+            "dateText": "September 2025",
+            "id": "rel-chainsaw-man---the-movie-reze-arc",
+            "category": "manga",
+            "title": "Chainsaw Man - The Movie: Reze Arc",
+            "date": "2025-09-19",
+            "status": "released",
+            "description": "Denji meets the mysterious Reze in this movie from MAPPA.",
+            "image": "https://i.ytimg.com/vi/tAzAhDNdehs/hq2.jpg",
+            "popularity": 91,
+            "tags": [
+                "Release"
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            "id": "img-anime-1",
+            "category": "anime",
+            "image": "Images/hello.jfif",
+            "caption": "Red moon silhouette"
+        },
+        {
+            "id": "img-anime-2",
+            "category": "anime",
+            "image": "Images/banner 2.jfif",
+            "caption": "My Dress-Up Darling fan art"
+        },
+        {
+            "id": "img-anime-3",
+            "category": "anime",
+            "image": "https://i.ytimg.com/vi/VQGCKyvzIM4/hq2.jpg",
+            "caption": "Demon Slayer"
+        },
+        {
+            "id": "img-anime-4",
+            "category": "anime",
+            "image": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hq1.jpg",
+            "caption": "Swordsmith Village Arc"
+        },
+        {
+            "id": "img-anime-5",
+            "category": "anime",
+            "image": "https://i.ytimg.com/vi/M_OauHnAFc8/hq3.jpg",
+            "caption": "Attack on Titan Final Season"
+        },
+        {
+            "id": "img-anime-6",
+            "category": "anime",
+            "image": "https://i.ytimg.com/vi/xU47nhruN-Q/hq2.jpg",
+            "caption": "Your Name"
+        },
+        {
+            "id": "img-anime-7",
+            "category": "anime",
+            "image": "https://i.ytimg.com/vi/ByXuk9QqQkk/hq3.jpg",
+            "caption": "Spirited Away"
+        },
+        {
+            "id": "img-anime-8",
+            "category": "anime",
+            "image": "https://i.ytimg.com/vi/6ohYYtxfDCg/hq2.jpg",
+            "caption": "Sword Art Online"
+        },
+        {
+            "id": "img-gaming-1",
+            "category": "gaming",
+            "image": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
+            "caption": "GTA VI - Vice City"
+        },
+        {
+            "id": "img-gaming-2",
+            "category": "gaming",
+            "image": "https://i.ytimg.com/vi/E3Huy2cdih0/hq2.jpg",
+            "caption": "Elden Ring"
+        },
+        {
+            "id": "img-gaming-3",
+            "category": "gaming",
+            "image": "https://i.ytimg.com/vi/c0i88t0Kacs/hq2.jpg",
+            "caption": "The Witcher 3"
+        },
+        {
+            "id": "img-gaming-4",
+            "category": "gaming",
+            "image": "https://i.ytimg.com/vi/gmA6MrX81z4/hq2.jpg",
+            "caption": "Red Dead Redemption 2"
+        },
+        {
+            "id": "img-gaming-5",
+            "category": "gaming",
+            "image": "https://i.ytimg.com/vi/EE-4GvjKcfs/hq2.jpg",
+            "caption": "God of War Ragnarok"
+        },
+        {
+            "id": "img-gaming-6",
+            "category": "gaming",
+            "image": "https://i.ytimg.com/vi/MmB9b5njVbA/hq2.jpg",
+            "caption": "Minecraft"
+        },
+        {
+            "id": "img-gaming-7",
+            "category": "gaming",
+            "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=900&auto=format&fit=crop&q=80",
+            "caption": "Gaming setup"
+        },
+        {
+            "id": "img-gaming-8",
+            "category": "gaming",
+            "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=900&auto=format&fit=crop&q=80",
+            "caption": "Controller night"
+        },
+        {
+            "id": "img-movies-1",
+            "category": "movies",
+            "image": "https://i.ytimg.com/vi/zSWdZVtXT7E/hq2.jpg",
+            "caption": "Interstellar"
+        },
+        {
+            "id": "img-movies-2",
+            "category": "movies",
+            "image": "https://i.ytimg.com/vi/Way9Dexny3w/hq2.jpg",
+            "caption": "Dune: Part Two"
+        },
+        {
+            "id": "img-movies-3",
+            "category": "movies",
+            "image": "https://i.ytimg.com/vi/EXeTwQWrcwY/hq2.jpg",
+            "caption": "The Dark Knight"
+        },
+        {
+            "id": "img-movies-4",
+            "category": "movies",
+            "image": "https://i.ytimg.com/vi/YoHD9XEInc0/hq2.jpg",
+            "caption": "Inception"
+        },
+        {
+            "id": "img-movies-5",
+            "category": "movies",
+            "image": "https://i.ytimg.com/vi/uYPbbksJxIg/hq2.jpg",
+            "caption": "Oppenheimer"
+        },
+        {
+            "id": "img-movies-6",
+            "category": "movies",
+            "image": "https://i.ytimg.com/vi/d9MyW72ELq0/hq2.jpg",
+            "caption": "Avatar: The Way of Water"
+        },
+        {
+            "id": "img-movies-7",
+            "category": "movies",
+            "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=900&auto=format&fit=crop&q=80",
+            "caption": "Cinema night"
+        },
+        {
+            "id": "img-movies-8",
+            "category": "movies",
+            "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=900&auto=format&fit=crop&q=80",
+            "caption": "Space vibes"
+        },
+        {
+            "id": "img-tv-1",
+            "category": "tv",
+            "image": "https://i.ytimg.com/vi/b9EkMc79ZSU/hq3.jpg",
+            "caption": "Stranger Things"
+        },
+        {
+            "id": "img-tv-2",
+            "category": "tv",
+            "image": "https://i.ytimg.com/vi/Di310WS8zLk/hq2.jpg",
+            "caption": "Wednesday"
+        },
+        {
+            "id": "img-tv-3",
+            "category": "tv",
+            "image": "https://i.ytimg.com/vi/rlR4PJn8b8I/hq3.jpg",
+            "caption": "Game of Thrones"
+        },
+        {
+            "id": "img-tv-4",
+            "category": "tv",
+            "image": "https://i.ytimg.com/vi/HhesaQXLuRY/hq2.jpg",
+            "caption": "Breaking Bad"
+        },
+        {
+            "id": "img-tv-5",
+            "category": "tv",
+            "image": "https://i.ytimg.com/vi/uLtkt8BonwM/hq2.jpg",
+            "caption": "The Last of Us"
+        },
+        {
+            "id": "img-tv-6",
+            "category": "tv",
+            "image": "https://i.ytimg.com/vi/oqxAJKy0ii4/hq2.jpg",
+            "caption": "Squid Game"
+        },
+        {
+            "id": "img-tv-7",
+            "category": "tv",
+            "image": "https://i.ytimg.com/vi/DotnJ7tTA34/hq1.jpg",
+            "caption": "House of the Dragon"
+        },
+        {
+            "id": "img-tv-8",
+            "category": "tv",
+            "image": "https://i.ytimg.com/vi/s7L2PVdrb_8/hq2.jpg",
+            "caption": "GOT opening map"
+        },
+        {
+            "id": "img-kpop-1",
+            "category": "kpop",
+            "image": "https://i.ytimg.com/vi/gdZLi9oWNZg/hq2.jpg",
+            "caption": "BTS - Dynamite"
+        },
+        {
+            "id": "img-kpop-2",
+            "category": "kpop",
+            "image": "https://i.ytimg.com/vi/ioNng23DkIM/hq2.jpg",
+            "caption": "BLACKPINK - How You Like That"
+        },
+        {
+            "id": "img-kpop-3",
+            "category": "kpop",
+            "image": "https://i.ytimg.com/vi/ePpPVE-GGJw/hq2.jpg",
+            "caption": "TWICE - TT"
+        },
+        {
+            "id": "img-kpop-4",
+            "category": "kpop",
+            "image": "https://i.ytimg.com/vi/11cta61wi0g/hq2.jpg",
+            "caption": "NewJeans - Hype Boy"
+        },
+        {
+            "id": "img-kpop-5",
+            "category": "kpop",
+            "image": "https://i.ytimg.com/vi/TQTlCHxyuu8/hq2.jpg",
+            "caption": "Stray Kids - God's Menu"
+        },
+        {
+            "id": "img-kpop-6",
+            "category": "kpop",
+            "image": "https://i.ytimg.com/vi/gQlMMD8auMs/hq2.jpg",
+            "caption": "BLACKPINK - Pink Venom"
+        },
+        {
+            "id": "img-kpop-7",
+            "category": "kpop",
+            "image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=900&auto=format&fit=crop&q=80",
+            "caption": "Concert crowd"
+        },
+        {
+            "id": "img-kpop-8",
+            "category": "kpop",
+            "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=900&auto=format&fit=crop&q=80",
+            "caption": "Stage lights"
+        },
+        {
+            "id": "img-comics-1",
+            "category": "comics",
+            "image": "https://i.ytimg.com/vi/shW9i6k8cB0/hq3.jpg",
+            "caption": "Across the Spider-Verse"
+        },
+        {
+            "id": "img-comics-2",
+            "category": "comics",
+            "image": "https://i.ytimg.com/vi/g4Hbz2jLxvQ/hq2.jpg",
+            "caption": "Into the Spider-Verse"
+        },
+        {
+            "id": "img-comics-3",
+            "category": "comics",
+            "image": "https://i.ytimg.com/vi/mqqft2x_Aa4/hq2.jpg",
+            "caption": "The Batman"
+        },
+        {
+            "id": "img-comics-4",
+            "category": "comics",
+            "image": "https://i.ytimg.com/vi/zAGVQLHvwOY/hq2.jpg",
+            "caption": "Joker"
+        },
+        {
+            "id": "img-comics-5",
+            "category": "comics",
+            "image": "https://i.ytimg.com/vi/73_1biulkYk/hq2.jpg",
+            "caption": "Deadpool & Wolverine"
+        },
+        {
+            "id": "img-comics-6",
+            "category": "comics",
+            "image": "https://i.ytimg.com/vi/xjDjIWPwcPU/hq2.jpg",
+            "caption": "Black Panther"
+        },
+        {
+            "id": "img-comics-7",
+            "category": "comics",
+            "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=900&auto=format&fit=crop&q=80",
+            "caption": "Comic pages"
+        },
+        {
+            "id": "img-comics-8",
+            "category": "comics",
+            "image": "https://images.unsplash.com/photo-1588497859490-85d1c17db96d?w=900&auto=format&fit=crop&q=80",
+            "caption": "Comic book stack"
+        },
+        {
+            "id": "img-manga-1",
+            "category": "manga",
+            "image": "Images/banner 1.jfif",
+            "caption": "Jujutsu Kaisen manga art"
+        },
+        {
+            "id": "img-manga-2",
+            "category": "manga",
+            "image": "Images/banner 3.jfif",
+            "caption": "Naruto, Sasuke and Ino"
+        },
+        {
+            "id": "img-manga-3",
+            "category": "manga",
+            "image": "Images/category.png",
+            "caption": "Marin Kitagawa"
+        },
+        {
+            "id": "img-manga-4",
+            "category": "manga",
+            "image": "https://i.ytimg.com/vi/Ades3pQbeh8/hq2.jpg",
+            "caption": "One Piece live action"
+        },
+        {
+            "id": "img-manga-5",
+            "category": "manga",
+            "image": "https://i.ytimg.com/vi/NlJZ-YgAt-c/hq3.jpg",
+            "caption": "Death Note"
+        },
+        {
+            "id": "img-manga-6",
+            "category": "manga",
+            "image": "https://i.ytimg.com/vi/q15CRdE5Bv0/hq2.jpg",
+            "caption": "Chainsaw Man"
+        },
+        {
+            "id": "img-manga-7",
+            "category": "manga",
+            "image": "https://i.ytimg.com/vi/pkKu9hLT-t8/hq2.jpg",
+            "caption": "Jujutsu Kaisen"
+        },
+        {
+            "id": "img-manga-8",
+            "category": "manga",
+            "image": "https://i.ytimg.com/vi/ofXigq9aIpo/hq2.jpg",
+            "caption": "Spy x Family"
+        }
+    ]
+}
